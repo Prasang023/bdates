@@ -1,0 +1,878 @@
+{
+  "generatedAt": "2026-08-27T02:47:06.633Z",
+  "count": 109,
+  "stories": [
+    {
+      "id": "1b563d0c-a202-46ca-b7fc-a5d35be25822",
+      "sourceId": "1vtrw1k",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1vtrw1k/",
+      "city": "Mumbai",
+      "expenseInr": 5000
+    },
+    {
+      "id": "01783738-d73d-493d-a963-f0d10cf49fbe",
+      "sourceId": "1vrem3t",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vrem3t/",
+      "city": "Kolkata",
+      "expenseInr": 12800
+    },
+    {
+      "id": "956e81d0-2dae-4245-913a-856074a19c03",
+      "sourceId": "1virhrj",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1virhrj/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "ab7079f7-538b-48f0-9323-8d71e006af5f",
+      "sourceId": "1vi5zlp",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vi5zlp/",
+      "city": "Kolkata",
+      "expenseInr": 9000
+    },
+    {
+      "id": "bbfc1c45-4cf0-45c3-a023-5169503dbc93",
+      "sourceId": "1vcpwlw",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vcpwlw/",
+      "city": "Kolkata",
+      "expenseInr": 14200
+    },
+    {
+      "id": "70dc3019-385b-46c0-9d6b-7283feea1f37",
+      "sourceId": "1vcj3n4",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1vcj3n4/",
+      "city": "Delhi-NCR",
+      "expenseInr": 20500
+    },
+    {
+      "id": "bf285c27-de4e-4f4c-a3d3-c4420f69db43",
+      "sourceId": "1vbt2oq",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1vbt2oq/",
+      "city": "Delhi-NCR",
+      "expenseInr": 25000
+    },
+    {
+      "id": "7f5119f1-3759-42ee-a3a0-cb2b163e704e",
+      "sourceId": "1v78pnp",
+      "sourceSubreddit": "Chennai",
+      "sourceUrl": "https://www.reddit.com/r/Chennai/comments/1v78pnp/",
+      "city": "Chennai",
+      "expenseInr": 0
+    },
+    {
+      "id": "3e954e3f-6b06-406d-b635-166498bb0657",
+      "sourceId": "1v7758q",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1v7758q/",
+      "city": "Other",
+      "expenseInr": 0
+    },
+    {
+      "id": "ec14d86e-7cb9-4d8e-9182-d53306067bb6",
+      "sourceId": "1v295do",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1v295do/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "4a939f26-334d-4dbe-ab49-6f639fe23fe4",
+      "sourceId": "1v1bptw",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1v1bptw/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "d4dc9230-0162-4532-ae88-e71b65ed996d",
+      "sourceId": "1uza47z",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1uza47z/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "791fd9da-f693-4cd5-b24d-d9d2c68a7145",
+      "sourceId": "1uz9so6",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1uz9so6/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "0ccfbce9-fb93-4904-9577-5c0312f45dd7",
+      "sourceId": "1uu7d5c",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1uu7d5c/",
+      "city": "Mumbai",
+      "expenseInr": 7000
+    },
+    {
+      "id": "3463954c-6279-404b-bbb2-338a0c0e60e0",
+      "sourceId": "1uhdytv",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1uhdytv/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "bb2a0c65-b3c0-42aa-99a7-ac74deddbd30",
+      "sourceId": "1u6p2zr",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1u6p2zr/",
+      "city": "Pune",
+      "expenseInr": 0
+    },
+    {
+      "id": "e944a383-090d-4f30-850e-ad33e99c7bc9",
+      "sourceId": "1u0xkkg",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1u0xkkg/",
+      "city": "Delhi-NCR",
+      "expenseInr": 1000
+    },
+    {
+      "id": "14b0ce2a-e772-46a6-8883-c5fffcc13df6",
+      "sourceId": "1tz7sfb",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1tz7sfb/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "18b0c337-76b3-498b-9d33-4e5b113d7f78",
+      "sourceId": "1tssola",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1tssola/",
+      "city": "Delhi-NCR",
+      "expenseInr": 25400
+    },
+    {
+      "id": "4ab9c962-6c89-4e0e-a165-bd2a1d8e7d7f",
+      "sourceId": "1tnynhq",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1tnynhq/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "faba972f-825b-4f10-8f83-3ab923237608",
+      "sourceId": "1tnym6p",
+      "sourceSubreddit": "noida",
+      "sourceUrl": "https://www.reddit.com/r/noida/comments/1tnym6p/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "b05fb532-53f0-4826-baf9-b761c3e273ca",
+      "sourceId": "1tfuvud",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1tfuvud/",
+      "city": "Delhi-NCR",
+      "expenseInr": 10500
+    },
+    {
+      "id": "9372a43c-8774-4fc6-ab32-924dd0542fb9",
+      "sourceId": "1tezduq",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1tezduq/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "d1beaa2d-3020-4c0e-8b38-0b5af0a3c21d",
+      "sourceId": "1teinm0",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1teinm0/",
+      "city": "Delhi-NCR",
+      "expenseInr": 4967
+    },
+    {
+      "id": "5eb6b18f-0169-4199-8548-6a15f37799cf",
+      "sourceId": "1t2gifd",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1t2gifd/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "e8154427-6b9d-49b1-bfda-cc17c1be30c7",
+      "sourceId": "1soarq7",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1soarq7/",
+      "city": "Delhi-NCR",
+      "expenseInr": 22000
+    },
+    {
+      "id": "f1ee2016-d724-4fe0-b752-e974312d1e5e",
+      "sourceId": "1snfrlg",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1snfrlg/",
+      "city": "Delhi-NCR",
+      "expenseInr": 3500
+    },
+    {
+      "id": "5553d63a-eda1-4e3f-9f5c-52f729f9e64b",
+      "sourceId": "1shus77",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1shus77/",
+      "city": "Kolkata",
+      "expenseInr": 1800
+    },
+    {
+      "id": "d9a10711-0d72-440e-9334-df07140145af",
+      "sourceId": "1sbtlhv",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1sbtlhv/",
+      "city": "Hyderabad",
+      "expenseInr": 12000
+    },
+    {
+      "id": "790da11c-4c3a-43ad-9ac4-ebe90764f1b5",
+      "sourceId": "1s77qdf",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1s77qdf/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "2bf6ffa3-74fd-45cb-a947-28dd580edd39",
+      "sourceId": "1s58a2g",
+      "sourceSubreddit": "Arrangedmarriage",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1s58a2g/",
+      "city": "Other",
+      "expenseInr": 650
+    },
+    {
+      "id": "c88c8dd7-e8ea-4a39-8b9c-83d7d60a91ad",
+      "sourceId": "1s0000u",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1s0000u/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "899fcbd1-a813-4ea0-9381-838af48cb043",
+      "sourceId": "1ry52bs",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1ry52bs/",
+      "city": "Pune",
+      "expenseInr": 0
+    },
+    {
+      "id": "c489f8c6-39a5-42d5-9d29-3ae575569ef6",
+      "sourceId": "1runh87",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1runh87/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "84879a0f-558a-48a7-ba58-2dafa49efe99",
+      "sourceId": "1rtpe95",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1rtpe95/",
+      "city": "Hyderabad",
+      "expenseInr": 15000
+    },
+    {
+      "id": "be9f1dbc-3a8b-49a6-9b01-0a0bec906a42",
+      "sourceId": "1rs2q17",
+      "sourceSubreddit": "Bengaluru",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1rs2q17/",
+      "city": "Bangalore",
+      "expenseInr": 42000
+    },
+    {
+      "id": "b24a7bdd-5bdd-4028-9fe4-ee8f277d3f54",
+      "sourceId": "1rq6a1e",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1rq6a1e/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "7c17eaf2-fd30-46a1-a4ad-46e3073938ff",
+      "sourceId": "1rppgve",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1rppgve/",
+      "city": "Delhi-NCR",
+      "expenseInr": 11437
+    },
+    {
+      "id": "59eff041-44c2-4317-a44f-f2ab695463ee",
+      "sourceId": "1r6jaxs",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1r6jaxs/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "a22e4b08-e7af-4430-bb04-df9900198c6f",
+      "sourceId": "1qyznc7",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1qyznc7/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "20393a82-deb4-4694-ae84-3e51a2c29c98",
+      "sourceId": "1qwjgau",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1qwjgau/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "7bb9604d-a3f9-45c4-b3e0-d4641ad0d685",
+      "sourceId": "1quldat",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1quldat/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "5a2e10d9-a5f0-4191-b327-54b7ec0449c2",
+      "sourceId": "1qteztl",
+      "sourceSubreddit": "Arrangedmarriage",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1qteztl/",
+      "city": "Other",
+      "expenseInr": 4560
+    },
+    {
+      "id": "e29f8c17-e0dd-4394-9adf-b11a87810836",
+      "sourceId": "1qssaed",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1qssaed/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "50379d96-03fa-4aa1-8267-98f283b866e2",
+      "sourceId": "1qsr19j",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1qsr19j/",
+      "city": "Pune",
+      "expenseInr": 0
+    },
+    {
+      "id": "21696875-56a8-43c3-8b3d-c2390bf7ebcc",
+      "sourceId": "1qs7w1g",
+      "sourceSubreddit": "Arrangedmarriage",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1qs7w1g/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "d5e1b476-2d08-4b52-9f2b-f6a7b3061dc5",
+      "sourceId": "1qiah85",
+      "sourceSubreddit": "bangalore",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1qiah85/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "00ce0312-cf23-439d-9703-f25974247e47",
+      "sourceId": "1qhakc9",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1qhakc9/",
+      "city": "Mumbai",
+      "expenseInr": 5000
+    },
+    {
+      "id": "aa6ba768-166b-4a47-9f55-59b96128de9c",
+      "sourceId": "1q5htt5",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1q5htt5/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "50a9ebd3-0f32-4800-825c-5f14b8389938",
+      "sourceId": "1q5h9rq",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1q5h9rq/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "f8a7e908-2239-491a-8da1-369237f3d50e",
+      "sourceId": "1q513ti",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1q513ti/",
+      "city": "Delhi-NCR",
+      "expenseInr": 18000
+    },
+    {
+      "id": "6a8849af-0f13-4fba-979a-b21a9bd44315",
+      "sourceId": "1q0xupf",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1q0xupf/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "ce781aa8-fa5d-4319-81e1-d3cbf2d7f4e0",
+      "sourceId": "1pyzlyo",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1pyzlyo/",
+      "city": "Kolkata",
+      "expenseInr": 30000
+    },
+    {
+      "id": "0139d232-53a3-425f-b36e-45bd38e30d40",
+      "sourceId": "1popg9l",
+      "sourceSubreddit": "Arrangedmarriage",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1popg9l/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "2446a11f-c13a-4615-bca4-763a025870b3",
+      "sourceId": "1popexb",
+      "sourceSubreddit": "Arrangedmarriage",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1popexb/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "8acba2a7-c78e-4c0c-b3d3-b18595f21edc",
+      "sourceId": "1pi15rx",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1pi15rx/",
+      "city": "Delhi-NCR",
+      "expenseInr": 100
+    },
+    {
+      "id": "4aff597d-1ce3-4ced-99eb-6a69e16de5da",
+      "sourceId": "1peuorq",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1peuorq/",
+      "city": "Delhi-NCR",
+      "expenseInr": 30000
+    },
+    {
+      "id": "ac0597d9-c83a-498d-a90d-dd9a9402cae4",
+      "sourceId": "1pe4g6f",
+      "sourceSubreddit": "Bengaluru",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1pe4g6f/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "94ba3557-d145-47df-83d8-49bdd4569c06",
+      "sourceId": "1p09w1u",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1p09w1u/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "8260f655-1f08-4e50-82d2-eca075b0f951",
+      "sourceId": "1oxx796",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1oxx796/",
+      "city": "Delhi-NCR",
+      "expenseInr": 60
+    },
+    {
+      "id": "a9c017cf-263d-4631-9474-69066a46f824",
+      "sourceId": "1ospeyb",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1ospeyb/",
+      "city": "Other",
+      "expenseInr": 8240
+    },
+    {
+      "id": "3db44a70-c525-4674-8f62-9cedbdf2bf1d",
+      "sourceId": "1ommnc0",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1ommnc0/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "e934a9da-a2ea-4e55-8f9f-fa69f04d5362",
+      "sourceId": "1okzfma",
+      "sourceSubreddit": "gurgaon",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1okzfma/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "23b9442a-9ed5-4ac7-8a58-d29fb90f8eba",
+      "sourceId": "1okszje",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1okszje/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "f4d65430-5498-4e6b-b30e-79ef7f962215",
+      "sourceId": "1o817no",
+      "sourceSubreddit": "bangalore",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1o817no/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "dd5e1b68-f3e1-4339-8129-c566840b3bd5",
+      "sourceId": "1o7zo2l",
+      "sourceSubreddit": "hyderabad",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1o7zo2l/",
+      "city": "Hyderabad",
+      "expenseInr": 0
+    },
+    {
+      "id": "7376b5f5-3a6d-4df7-a2c6-22461462f203",
+      "sourceId": "1nzaj88",
+      "sourceSubreddit": "bangalore",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1nzaj88/",
+      "city": "Bangalore",
+      "expenseInr": 8000
+    },
+    {
+      "id": "6614be78-e780-4877-bc97-5554b820e8bc",
+      "sourceId": "1nt2jcz",
+      "sourceSubreddit": "Bengaluru",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1nt2jcz/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "f701a227-fbcc-4f20-89cf-b70b42709559",
+      "sourceId": "1n23qre",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1n23qre/",
+      "city": "Delhi-NCR",
+      "expenseInr": 50000
+    },
+    {
+      "id": "dab555e0-2fb1-4128-8415-edd0306bf824",
+      "sourceId": "1mvkg9d",
+      "sourceSubreddit": "bangalore",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1mvkg9d/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "58b09ab4-052a-4cbc-9cfd-a77f1286e67d",
+      "sourceId": "1mt2lcy",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1mt2lcy/",
+      "city": "Kolkata",
+      "expenseInr": 6000
+    },
+    {
+      "id": "c864afa3-c5b8-4e6e-9636-d36f4d098ca0",
+      "sourceId": "1m0at2g",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1m0at2g/",
+      "city": "Pune",
+      "expenseInr": 14000
+    },
+    {
+      "id": "c159b647-3164-446b-b33d-36652412a484",
+      "sourceId": "1lyop02",
+      "sourceSubreddit": "Bengaluru",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1lyop02/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "06113b0f-9d0d-4417-9e8b-cc848a207fd1",
+      "sourceId": "1lwpc3d",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1lwpc3d/",
+      "city": "Kolkata",
+      "expenseInr": 4500
+    },
+    {
+      "id": "11d96b8f-2430-4ae1-995d-1dc0ac8d8e07",
+      "sourceId": "1lsfuby",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1lsfuby/",
+      "city": "Other",
+      "expenseInr": 1150
+    },
+    {
+      "id": "50427510-2b76-4e91-ae79-399726a5aeba",
+      "sourceId": "1lsbroj",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1lsbroj/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "3e17afdd-cf1b-46f2-a58f-43c26e88ef14",
+      "sourceId": "1kzm0js",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1kzm0js/",
+      "city": "Delhi-NCR",
+      "expenseInr": 10000
+    },
+    {
+      "id": "2949a0d9-f467-4395-99c9-80716ebe9820",
+      "sourceId": "1kua0vb",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1kua0vb/",
+      "city": "Delhi-NCR",
+      "expenseInr": 6500
+    },
+    {
+      "id": "ed3436f3-e3b4-4aa2-a6fe-faf749d03d0f",
+      "sourceId": "1krv3vb",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1krv3vb/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "3df204e2-5dd3-4635-9266-979b8e100fd0",
+      "sourceId": "1kk16nx",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1kk16nx/",
+      "city": "Pune",
+      "expenseInr": 0
+    },
+    {
+      "id": "7770a742-1ef5-4ee5-8f4b-b29a0a4e3698",
+      "sourceId": "1keoe0i",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1keoe0i/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "ae3294c5-c95c-4363-bef3-c8ac25348615",
+      "sourceId": "1kdnszd",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1kdnszd/",
+      "city": "Mumbai",
+      "expenseInr": 53000
+    },
+    {
+      "id": "d1678492-32e8-4ab5-a5f9-576ba32cdf5b",
+      "sourceId": "1kc8ojl",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1kc8ojl/",
+      "city": "Other",
+      "expenseInr": 4000
+    },
+    {
+      "id": "cb87675f-4420-42e3-aab7-a399d3351289",
+      "sourceId": "1jvy587",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1jvy587/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "9bb4f9b3-afcb-4f17-b1ef-b2d8276ea326",
+      "sourceId": "1ju49z5",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1ju49z5/",
+      "city": "Delhi-NCR",
+      "expenseInr": 3165
+    },
+    {
+      "id": "358ae288-0055-4dd5-bc1c-1c0a240e68a7",
+      "sourceId": "1iq5bb5",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1iq5bb5/",
+      "city": "Pune",
+      "expenseInr": 0
+    },
+    {
+      "id": "0ed9ea0f-4c92-46cf-a206-4c65a5a964ed",
+      "sourceId": "1in7opn",
+      "sourceSubreddit": "mumbai",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1in7opn/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "c4572bd2-f1f3-4c94-a298-f3ce2351ba4b",
+      "sourceId": "1ia7z44",
+      "sourceSubreddit": "Chennai",
+      "sourceUrl": "https://www.reddit.com/r/Chennai/comments/1ia7z44/",
+      "city": "Chennai",
+      "expenseInr": 0
+    },
+    {
+      "id": "22a75b2b-4808-45c6-bddc-bfd6dc64cfef",
+      "sourceId": "1i2jhue",
+      "sourceSubreddit": "bangalore",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1i2jhue/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "c5374011-c46f-44be-9f8d-7fd3b8d9aa0f",
+      "sourceId": "1ho5z0r",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1ho5z0r/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "ede712ff-9eaa-4a0a-a9c2-d4fa4ef6d949",
+      "sourceId": "1hje479",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1hje479/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "5c17dbc1-e629-4e63-bdd2-b3da90ce992a",
+      "sourceId": "1hjdoh8",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1hjdoh8/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "535c7776-3c5a-4894-a542-49284e545e2e",
+      "sourceId": "1hjd7yk",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1hjd7yk/",
+      "city": "Kolkata",
+      "expenseInr": 2500
+    },
+    {
+      "id": "577b75af-7793-4317-b859-3c39f6578016",
+      "sourceId": "1hijkue",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1hijkue/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "95ca71ad-c0c9-429d-a79e-283b1853b394",
+      "sourceId": "1hfnhpe",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1hfnhpe/",
+      "city": "Kolkata",
+      "expenseInr": 17000
+    },
+    {
+      "id": "284b2820-e336-43b2-b088-90e0c9a92ea6",
+      "sourceId": "1gbyah5",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1gbyah5/",
+      "city": "Kolkata",
+      "expenseInr": 0
+    },
+    {
+      "id": "92dc52c6-6a5d-4235-86ad-b3212c6b9d6c",
+      "sourceId": "1fr5lz5",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1fr5lz5/",
+      "city": "Delhi-NCR",
+      "expenseInr": 16000
+    },
+    {
+      "id": "cfe76db7-b036-4dce-bbde-dedd006208df",
+      "sourceId": "1fhablc",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1fhablc/",
+      "city": "Delhi-NCR",
+      "expenseInr": 5000
+    },
+    {
+      "id": "c3252bed-8f93-4c24-a59b-0a1843948783",
+      "sourceId": "1fh81er",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1fh81er/",
+      "city": "Bangalore",
+      "expenseInr": 0
+    },
+    {
+      "id": "aec65069-9f14-4cc0-84ae-b592e5f5a7da",
+      "sourceId": "1f6e1sn",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1f6e1sn/",
+      "city": "Other",
+      "expenseInr": 95500
+    },
+    {
+      "id": "61cae9da-b979-45ef-9e5e-72d9c5c3deb5",
+      "sourceId": "1dwi156",
+      "sourceSubreddit": "noida",
+      "sourceUrl": "https://www.reddit.com/r/noida/comments/1dwi156/",
+      "city": "Delhi-NCR",
+      "expenseInr": 0
+    },
+    {
+      "id": "3cba4725-60dd-4d5b-8bd5-55c376d19361",
+      "sourceId": "1dd4l9p",
+      "sourceSubreddit": "kolkata",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1dd4l9p/",
+      "city": "Kolkata",
+      "expenseInr": 2000
+    },
+    {
+      "id": "6a17b310-e19f-4e10-ad2e-754c7aa77636",
+      "sourceId": "1d68xgz",
+      "sourceSubreddit": "pune",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1d68xgz/",
+      "city": "Pune",
+      "expenseInr": 13000
+    },
+    {
+      "id": "02dbd103-5026-4222-84eb-50dfc22be0e0",
+      "sourceId": "1cwng2x",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1cwng2x/",
+      "city": "Delhi-NCR",
+      "expenseInr": 8000
+    },
+    {
+      "id": "cddcea2a-55be-443e-8794-455f29800083",
+      "sourceId": "1ca1tnu",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1ca1tnu/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    },
+    {
+      "id": "c411b1e7-a289-4daa-a689-d2dc138f7ff5",
+      "sourceId": "1baok1c",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1baok1c/",
+      "city": "Delhi-NCR",
+      "expenseInr": 500
+    },
+    {
+      "id": "735eee04-dbd3-4d48-858a-dad074963700",
+      "sourceId": "17magvp",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/17magvp/",
+      "city": "Delhi-NCR",
+      "expenseInr": 11000
+    },
+    {
+      "id": "79142803-20ef-4e5c-b184-87bc4bbaed06",
+      "sourceId": "171hzq4",
+      "sourceSubreddit": "delhi",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/171hzq4/",
+      "city": "Delhi-NCR",
+      "expenseInr": 9971
+    },
+    {
+      "id": "8ca1838d-e5cc-4f3e-b4ce-f9b902e2863a",
+      "sourceId": "16kay3m",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/16kay3m/",
+      "city": "Mumbai",
+      "expenseInr": 0
+    }
+  ]
+}

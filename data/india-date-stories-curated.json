@@ -1,0 +1,2605 @@
+{
+  "generatedAt": "2026-08-26T19:07:53.018Z",
+  "source": "Public Reddit archive searches across Indian city, dating, social and matrimony subreddits",
+  "scrapedPosts": 4879,
+  "heuristicCandidates": 243,
+  "selectedCount": 109,
+  "skippedCount": 134,
+  "selected": [
+    {
+      "sourceId": "1n23qre",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-08-28T05:20:38Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Karkardooma",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 50000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 3133,
+      "storyBody": "Matched on Tinder and met at a cafe near a Delhi metro station. The staff kept pushing expensive items and never properly showed the menu. The final bill came to over Rs 50,000 for just food and drinks, in what looked like an organised setup targeting people lured through dating apps.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1n23qre/"
+    },
+    {
+      "sourceId": "1fr5lz5",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2024-09-28T03:38:18Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Hudson Lane",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 16000,
+      "timeWastedMins": 0,
+      "venueName": "Bagheera Cafe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 3093,
+      "storyBody": "Matched on a dating app and she picked a Hudson Lane cafe. She ordered a king-size hookah, vodka shots and starters, barely touched them, then left claiming a headache. The bill was Rs 17,170 and staff pressured me into paying Rs 16,000 in cash. Hours later I saw the same woman seated with someone else at the same place.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1fr5lz5/"
+    },
+    {
+      "sourceId": "1keoe0i",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2025-05-04T16:49:34Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 90,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED"
+      ],
+      "upvotes": 2391,
+      "storyBody": "We had been talking on Bumble for weeks and finally set a date. I confirmed the time on call an hour before, travelled over an hour in the afternoon heat with a flower I had picked up, then waited 30 minutes at the spot with no response. She resurfaced seven hours later saying she had got cold feet.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1keoe0i/"
+    },
+    {
+      "sourceId": "1m0at2g",
+      "sourceSubreddit": "pune",
+      "createdAt": "2025-07-15T06:50:48Z",
+      "city": "Pune",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 14000,
+      "timeWastedMins": 0,
+      "venueName": "Metro Lounge",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 1027,
+      "storyBody": "Matched on a dating app in Pune. She shifted the meeting point twice, then led me up to a 4th-floor bar. She ordered drinks and cigarettes freely, made repeated washroom trips, and then said she had no money. The bill was Rs 20,000; after being intimidated by the staff I paid Rs 14,000 in cash to get out. The venue already had similar complaints online.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1m0at2g/"
+    },
+    {
+      "sourceId": "1oxx796",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-11-15T17:15:32Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Kalkaji",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 60,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 982,
+      "storyBody": "Matched on a dating app in Delhi. She turned up an hour late, looked different from her photos, and had deleted her profile by then. She headed straight into a dark pub and pushed hookah and beer; when I said I don't smoke or drink she said there was no point sitting there and walked out, leaving me with a Rs 60 bill for a water bottle.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1oxx796/"
+    },
+    {
+      "sourceId": "1pyzlyo",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2025-12-29T22:01:52Z",
+      "city": "Kolkata",
+      "neighborhood": "Golpark",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 30000,
+      "timeWastedMins": 0,
+      "venueName": "Dum Maro Dum Cafe & Lounge",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 883,
+      "storyBody": "Matched on Hinge in Kolkata. She insisted on meeting near Golpark without naming a venue, then took me to a nearly empty lounge and a dim closed-off room. She handed the menu back so I couldn't see prices, ordered extras, and had the hookah flavour changed three times. The bill was Rs 30,000, with hookah alone at Rs 18,900. She refused to contribute and staff made it clear I couldn't leave without paying.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1pyzlyo/"
+    },
+    {
+      "sourceId": "1f6e1sn",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2024-09-01T13:09:02Z",
+      "city": "Ahmedabad",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "Casual",
+      "expenseInr": 95500,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 841,
+      "storyBody": "Matched on Tinder in Ahmedabad and met in the evening for a movie and dinner before going to a hotel. Three men claiming to be police barged in and threatened to file a case. They took Rs 8,500 in cash from my wallet and forced a UPI transfer of Rs 87,000, using a recording and my social media contacts as leverage.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1f6e1sn/"
+    },
+    {
+      "sourceId": "1ospeyb",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2025-11-09T17:37:18Z",
+      "city": "Other",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 8240,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE",
+        "EXPENSIVE"
+      ],
+      "upvotes": 759,
+      "storyBody": "Picked her up for a dinner date. On the drive she criticised my car and my music. At the restaurant she said the place wasn't worth it while ordering some of the priciest dishes. I asked for the bill before the food was served: Rs 8,240. When I asked if she was okay splitting it, she said she hadn't brought that much money, so I asked her to leave. She blocked me everywhere within minutes.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1ospeyb/"
+    },
+    {
+      "sourceId": "1okszje",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-10-31T12:17:34Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Punjabi Bagh",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 662,
+      "storyBody": "Matched on a dating app in Delhi and met at Punjabi Bagh. She looked nothing like her profile photo. She took me to a nearby cafe and immediately ordered hookah, spring rolls and shakes. The bill reached Rs 7,000, so I ordered one more item, said I needed to step out for a call because of poor network, and ran about a kilometre before booking a ride home.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1okszje/"
+    },
+    {
+      "sourceId": "1uu7d5c",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-07-12T06:17:33Z",
+      "city": "Mumbai",
+      "neighborhood": "Bandra",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 7000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 569,
+      "storyBody": "Met a Tinder match at a spot in Bandra. She ordered drinks and snacks freely and never glanced at the Rs 7,000 bill. When I suggested splitting she got dismissive, saying that isn't done in her circle. I paid to avoid a scene; she wrapped up the meet quickly and left with a vague promise to meet again.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1uu7d5c/"
+    },
+    {
+      "sourceId": "1ia7z44",
+      "sourceSubreddit": "Chennai",
+      "createdAt": "2025-01-26T06:42:31Z",
+      "city": "Chennai",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Amethyst",
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 548,
+      "storyBody": "On a second date at a garden cafe in Chennai I took out my card to pay for our coffees, since he had paid the previous time. The manager, who brought the bill, mockingly said that she pays when it is a small amount and next time the big amount will be on him, then chuckled. I was too shocked and embarrassed to say anything back.",
+      "sourceUrl": "https://www.reddit.com/r/Chennai/comments/1ia7z44/"
+    },
+    {
+      "sourceId": "1hjd7yk",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2024-12-21T16:24:16Z",
+      "city": "Kolkata",
+      "neighborhood": "New Town",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 2500,
+      "timeWastedMins": 0,
+      "venueName": "Atmosphere Cafe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 516,
+      "storyBody": "Matched with someone in Kolkata and met at a mall; she suggested a nearby bar-restaurant. There turned out to be an undisclosed entry fee. She ordered a whisky with Red Bull, and a cigarette pack was priced at Rs 600. The bill came to Rs 2,500, with Rs 1,398 for her drink alone. When I said we should leave, she casually suggested meeting again.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1hjd7yk/"
+    },
+    {
+      "sourceId": "1qssaed",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2026-02-01T07:50:18Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 464,
+      "storyBody": "Matched on Tinder and met at a Delhi-NCR metro station. She turned up with a friend and immediately pushed for one specific cafe. Once inside she wanted a non-veg platter costing about Rs 2,000 per person. I said a friend of mine was also joining, sat for a few minutes, faked a call about poor network, stepped outside and ran before anything was ordered.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1qssaed/"
+    },
+    {
+      "sourceId": "1fhablc",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2024-09-15T11:26:25Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 5000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 451,
+      "storyBody": "Matched with a girl in Delhi a few days ago and went to meet her. The moment I walked into the bar I realised it was a setup, so I wrapped up the date as fast as I could, but still ended up with a Rs 5,000 bill.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1fhablc/"
+    },
+    {
+      "sourceId": "1nzaj88",
+      "sourceSubreddit": "bangalore",
+      "createdAt": "2025-10-06T05:20:26Z",
+      "city": "Bangalore",
+      "neighborhood": "Church Street",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 8000,
+      "timeWastedMins": 40,
+      "venueName": "Wasabi Lounge",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 449,
+      "storyBody": "Matched on Bumble; she insisted on one specific bar near Church Street that her sister had supposedly recommended. The place was almost empty with staff hovering. She ordered a double Jameson at Rs 1,200 per 60ml, then a Royal Salute at Rs 2,000 per 30ml after the menu was taken away. Staff stopped me from stepping downstairs. After about 40 minutes the bill was Rs 8,000 and she said she had no money.",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1nzaj88/"
+    },
+    {
+      "sourceId": "1baok1c",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2024-03-09T18:31:06Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Punjabi Bagh",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 500,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 449,
+      "storyBody": "First time meeting someone from Bumble in Delhi. She kept shifting the meeting point, then led me to a hookah bar near Punjabi Bagh where the staff clearly recognised her. Hookah was priced at Rs 8,000-9,000, so I stood up and refused to stay. I paid Rs 500 for the burnt flavour and left. Two men followed me to my rickshaw claiming an unpaid bill before finally letting me go.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1baok1c/"
+    },
+    {
+      "sourceId": "1q5h9rq",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-01-06T12:28:46Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 414,
+      "storyBody": "Matched on Bumble in Mumbai and agreed to meet at a cafe for lunch. The man who walked up looked nothing like the profile. He cheerfully admitted he had used a friend's photos and name because the friend looked smarter, and gave a completely different name, hometown and job. I ended it right there. He deleted his account, then kept calling from five different numbers over the following weeks.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1q5h9rq/"
+    },
+    {
+      "sourceId": "1vcj3n4",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-08-01T09:50:03Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 20500,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 376,
+      "storyBody": "Matched on a dating app and she suggested meeting the same day. She picked me up from the metro and took me to a pub; I had never been to one and thought we were going to a cafe. I don't drink or smoke, but she ordered roughly Rs 13,000 of champagne and Rs 6,000 of hookah. The final bill was Rs 20,500, close to half my monthly salary. She was in the washroom when it arrived and never asked about splitting.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1vcj3n4/"
+    },
+    {
+      "sourceId": "1tz7sfb",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-06-07T09:45:49Z",
+      "city": "Hyderabad",
+      "neighborhood": "Other",
+      "platform": "Mutual Friend",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 361,
+      "storyBody": "First date in Hyderabad with a man introduced by an acquaintance. We had agreed to split dinner. While I was struggling with poor network to transfer my share, he put his hand on my waist and started fondling it, giggling when I asked what he was doing. He then pressed me to get dessert and sit in his car somewhere with no people around. I invented a period emergency to get away, and later he complained that I should have mentioned it because of a pooja at his home.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1tz7sfb/"
+    },
+    {
+      "sourceId": "171hzq4",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2023-10-06T17:13:03Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "GTB Nagar",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 9971,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 336,
+      "storyBody": "Asked a match out for drinks in Connaught Place; she moved it to GTB Nagar, then to a spot a 15-minute walk from the metro. Two women were waiting, and it turned out the profile photos belonged to the friend, not my match. Both joined us. They ordered hookah, tequila shots and Red Bull; the bill hit Rs 9,971 and my international card wasn't accepted. Neither of them contributed, and they walked off together afterwards.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/171hzq4/"
+    },
+    {
+      "sourceId": "1okzfma",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2025-10-31T16:36:16Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 321,
+      "storyBody": "Went on a Tinder date at a place she chose near her own area. She looked completely different from her profile pictures, and she had been pushing very hard to meet. She took me straight to the most expensive restaurant around. I told her I wasn't comfortable, suggested rescheduling, left quickly and blocked her everywhere.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1okzfma/"
+    },
+    {
+      "sourceId": "1rq6a1e",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2026-03-10T19:12:11Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 90,
+      "venueName": null,
+      "disasterTags": [
+        "COMMUTE_DISASTER",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 318,
+      "storyBody": "Matched on Tinder in Kolkata and rushed 18 km after finishing work at 8pm, stopping home first to change and pick up a spare helmet, reaching her by 9:30pm. She then asked me to park my six-month-old bike outside a random cafe and book a cab to somewhere else. I wasn't willing to leave it in an unfamiliar area, so I rode back and blocked her.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1rq6a1e/"
+    },
+    {
+      "sourceId": "1d68xgz",
+      "sourceSubreddit": "pune",
+      "createdAt": "2024-06-02T08:46:53Z",
+      "city": "Pune",
+      "neighborhood": "Viman Nagar",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 13000,
+      "timeWastedMins": 60,
+      "venueName": "Sash Cocktail Bar & Kitchen",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "EXPENSIVE"
+      ],
+      "upvotes": 316,
+      "storyBody": "Matched on Tinder in Pune and she picked a cocktail bar in Viman Nagar. She looked nothing like her photos. She started ordering on her own and downed premium vodka shots worth about Rs 13,000 within an hour. When the bill came they expected me to pay for everything, so I paid Rs 13,000 and left. The review I posted about the place was later taken down.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1d68xgz/"
+    },
+    {
+      "sourceId": "1hje479",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2024-12-21T17:06:24Z",
+      "city": "Kolkata",
+      "neighborhood": "Maddox Square",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 267,
+      "storyBody": "Matched on Hinge in Kolkata and met at Maddox Square, where she showed up with two friends. She suggested a nearby cafe that was almost empty except for a few men with a hookah. I looked up the cafe's reviews on the spot and it was obvious what was coming, so I said I don't smoke and left before anything was ordered.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1hje479/"
+    },
+    {
+      "sourceId": "1q513ti",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-01-05T22:59:49Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 18000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 263,
+      "storyBody": "New to Delhi and lonely, I matched on a dating app and told her upfront I just wanted to meet someone and talk. We met at a cafe-restaurant. I didn't like the place when I got there but stayed anyway. She ordered a glass of red wine; I don't drink so I ordered nothing. The bill was around Rs 18,000, most of my Rs 25,000 monthly salary. I paid it and left shaken.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1q513ti/"
+    },
+    {
+      "sourceId": "1lwpc3d",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2025-07-10T21:50:45Z",
+      "city": "Kolkata",
+      "neighborhood": "Park Street",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 4500,
+      "timeWastedMins": 0,
+      "venueName": "Daddy's Cafe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 255,
+      "storyBody": "Matched on a dating app after moving to Kolkata. She took a cabin at a cafe near Park Street, pushed for drinks, then complained about the hookah so another would be ordered. She stepped out for a supposed family call and never came back. The bill was Rs 10,000, including undisclosed Rs 2,000 cabin charges and Rs 4,500 for a hookah listed at Rs 1,499. Staff shouted until I said I would call the police, then handed me a revised Rs 4,500 bill.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1lwpc3d/"
+    },
+    {
+      "sourceId": "1pi15rx",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-12-09T07:12:38Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 100,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH"
+      ],
+      "upvotes": 249,
+      "storyBody": "Matched with a verified Tinder profile in Delhi that had almost no information and was very eager to meet at once. She redirected me from a metro station to a mall, then to a shady sheesha bar that didn't exist on Maps. The bouncers looked like goons, the menu was too dim to read, and she ordered sheesha and whiskey without checking prices. I walked out and paid Rs 100 for the water they had brought.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1pi15rx/"
+    },
+    {
+      "sourceId": "1qhakc9",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-01-19T17:28:00Z",
+      "city": "Mumbai",
+      "neighborhood": "Saki Naka",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 5000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 236,
+      "storyBody": "Matched on Tinder in Mumbai. The conversation was dry but she pushed hard for one specific bar near Saki Naka. We had two drinks, no food, nothing excessive. The bill came to Rs 5,000. When I questioned it the staff turned cold and impatient, and she went quiet and distant like it wasn't her problem. I paid and left feeling stupid.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1qhakc9/"
+    },
+    {
+      "sourceId": "1hfnhpe",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2024-12-16T16:52:02Z",
+      "city": "Kolkata",
+      "neighborhood": "Bhowanipore",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 17000,
+      "timeWastedMins": 0,
+      "venueName": "The Vibe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 223,
+      "storyBody": "Matched on a dating app in Kolkata and met near a mall; she walked us to a lounge in a by-lane. She ordered the most expensive hookahs twice, several starters, repeated mocktail refills, two cigarette packs billed at Rs 500 each and a lighter at Rs 100, while the staff took orders only from her. The bill came to about Rs 17,000. She packed all the leftover food and took it with her, and had unmatched and deleted the chat by the time I got home.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1hfnhpe/"
+    },
+    {
+      "sourceId": "1rs2q17",
+      "sourceSubreddit": "Bengaluru",
+      "createdAt": "2026-03-12T20:47:23Z",
+      "city": "Bangalore",
+      "neighborhood": "Indiranagar",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 42000,
+      "timeWastedMins": 0,
+      "venueName": "Tipsy Bull",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "EXPENSIVE"
+      ],
+      "upvotes": 215,
+      "storyBody": "Matched on a lesser-known dating app in Bengaluru and she redirected the date from Electronic City to a bar in Indiranagar. She looked significantly different from her profile pictures, carried two phones and took constant calls, and the table was already pre-booked. She took over the menu and ordered a full pack of cigarettes, 90ml of premium whisky and eight pegs of Royal Salute. The bill was Rs 42,000. She promised to send half after reaching home and then disappeared.",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1rs2q17/"
+    },
+    {
+      "sourceId": "1nt2jcz",
+      "sourceSubreddit": "Bengaluru",
+      "createdAt": "2025-09-28T23:10:12Z",
+      "city": "Bangalore",
+      "neighborhood": "MG Road",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "SkyDeck by Sherlock's",
+      "disasterTags": [
+        "GHOSTED",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 191,
+      "storyBody": "Matched on Bumble with a man who said he was in India for a management course, and we met at a rooftop bar on MG Road in Bengaluru. The date itself went fine until it was time to pay, when he went downstairs to buy cigarettes and never came back. I ended up paying for everything we had ordered. What felt off was that all the waiters seemed to know him.",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1nt2jcz/"
+    },
+    {
+      "sourceId": "1runh87",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-03-15T19:38:10Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Karkardooma",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 187,
+      "storyBody": "Matched on a dating app and agreed to meet in the Karkardooma area at a cafe she recommended. It was on the second floor of a shady, dimly lit building with bouncers, and within a minute she seemed very familiar with the staff. A small notice near the entrance mentioned a Rs 2,000 per-person entry charge, easy to miss, which meant Rs 4,000 before ordering anything. I left immediately.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1runh87/"
+    },
+    {
+      "sourceId": "1ca1tnu",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2024-04-22T04:29:14Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED"
+      ],
+      "upvotes": 185,
+      "storyBody": "Matched on Bumble and after only a few chats she asked to go out, so we went for dinner. The conversation was good and I paid the bill, as I always do. Within a few minutes of leaving the restaurant she blocked my number and ended the chat on the app. She had blocked me everywhere.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1ca1tnu/"
+    },
+    {
+      "sourceId": "1gbyah5",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2024-10-25T16:24:50Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 179,
+      "storyBody": "My first ever date, set up through a dating app in Kolkata. She agreed to meet right away and refused to share any other profile. When I got there her name didn't match what my phone showed and she looked nothing like her pictures. She turned down the nicer cafes I suggested and took me to a shady one, ordered hookah after I said I don't smoke, then called a friend over so they could order more and split the bill. I paid for the food and left.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1gbyah5/"
+    },
+    {
+      "sourceId": "1qiah85",
+      "sourceSubreddit": "bangalore",
+      "createdAt": "2026-01-20T19:15:12.000Z",
+      "city": "Bangalore",
+      "neighborhood": "Brigade Road",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 173,
+      "storyBody": "Matched on Tinder and met near a Bangalore shopping street at 8 PM. She looked nothing like her profile photos and steered me to a shady pub where a small beer was listed at Rs 600 and spirits above Rs 900. When I asked who was paying, her tone changed; she took a call, claimed an emergency and left. I walked out without ordering anything.",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1qiah85/"
+    },
+    {
+      "sourceId": "1in7opn",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2025-02-11T19:55:28.000Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 168,
+      "storyBody": "First Bumble date at a local pub. I said clearly that I did not want to drink or eat, but he ordered a pitcher of beer, a large pizza and more beer for himself. He vanished to the restroom for about 20 minutes just as the bill arrived, then said his UPI was not working and promised to repay in three days. I paid. Three days later he denied ever promising and said we had been splitting all along.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1in7opn/"
+    },
+    {
+      "sourceId": "1v7758q",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2026-07-26T15:34:27.000Z",
+      "city": "Vizag",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Sweet India",
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 166,
+      "storyBody": "Picked up a dating-app match for a beach date in Vizag. We stopped for dessert on the way, which she took two bites of and I paid for. On the drive she kept saying men in this city are cheap and broke while every man she met in Delhi was rich with a big car. After a few minutes of that I turned the bike around, dropped her exactly where I had picked her up, and left without explaining.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1v7758q/"
+    },
+    {
+      "sourceId": "1pe4g6f",
+      "sourceSubreddit": "Bengaluru",
+      "createdAt": "2025-12-04T16:28:51.000Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "COMMUTE_DISASTER",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 164,
+      "storyBody": "First date in Bengaluru after an hour in traffic. She had pushed to meet the very next day, did not resemble her verified Tinder photos, and was already standing outside the bar she insisted on. The menu listed Rs 1800 for a 30 ml pour, so I suggested a place five minutes away. She refused, citing relatives nearby and a roommate curfew, so I called it off and left.",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1pe4g6f/"
+    },
+    {
+      "sourceId": "1jvy587",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2025-04-10T13:39:21.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Moti Bagh",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 159,
+      "storyBody": "Matched on a dating app and she moved the meeting point from one Delhi metro station to the next after I had already reached. I raised the cafe bill-scam stories up front and she said any cafe was fine, but she then refused every named outlet I suggested near the metro. After a couple of awkward minutes she said we should not meet anymore and walked away.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1jvy587/"
+    },
+    {
+      "sourceId": "1u6p2zr",
+      "sourceSubreddit": "pune",
+      "createdAt": "2026-06-15T18:33:37.000Z",
+      "city": "Pune",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Aeromall",
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 158,
+      "storyBody": "Matched on a niche app and she pushed to meet the same evening at a mall in Pune, close to where she claimed to be visiting family. I left my cards and most cash at home as a precaution. In person she looked nothing like her photos, and she insisted on one specific bar inside, refusing the food court or the branded place upstairs because people there would supposedly recognise her. When I offered to take her somewhere better she said she was going home.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1u6p2zr/"
+    },
+    {
+      "sourceId": "1ho5z0r",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2024-12-28T13:46:50.000Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Rider Cafe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 153,
+      "storyBody": "Matched on a dating app in Kolkata and, while travelling to meet her, realised from a saved Reddit post that she was the same person others had flagged. She turned up with a friend and pushed one specific cafe. I had a friend call me, said a relative had been in an accident, and left before anything could be ordered.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1ho5z0r/"
+    },
+    {
+      "sourceId": "1v78pnp",
+      "sourceSubreddit": "Chennai",
+      "createdAt": "2026-07-26T16:32:08.000Z",
+      "city": "Chennai",
+      "neighborhood": "Mogappair East",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "COMMUTE_DISASTER"
+      ],
+      "upvotes": 136,
+      "storyBody": "Matched with the same woman on two apps and she pushed to meet within hours at one specific Chennai bus stop, an hour's drive for me. She said we would go to a pizza outlet but led me up to a club on another floor, insisted on a corner seat and on single malt while also claiming she could not stay out long. When I offered a place 15 minutes away she refused, and when I confronted her about the setup she ran off in another direction.",
+      "sourceUrl": "https://www.reddit.com/r/Chennai/comments/1v78pnp/"
+    },
+    {
+      "sourceId": "1hjdoh8",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2024-12-21T16:46:27.000Z",
+      "city": "Kolkata",
+      "neighborhood": "Maddox Square",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 130,
+      "storyBody": "Matched on Hinge and met at an open hangout ground in Kolkata, which seemed safe enough. She arrived with two friends and moved us to a nearly empty nearby cafe where a few men sat with a hookah. I googled the place on the spot and the reviews described bill scams, so I said I do not smoke and left before anything was ordered.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1hjdoh8/"
+    },
+    {
+      "sourceId": "17magvp",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2023-11-02T18:41:43.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Rajouri Garden",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 11000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 117,
+      "storyBody": "Matched on a dating app; she refused to come to my neighbourhood and made me travel to Rajouri Garden. She steered me into a particular restaurant and ordered hookah, vodka and noodles while I had pizza and a coke. The bill came to Rs 11,000, with Rs 6,000 for the hookah alone. In a shady place with unknown men around, paying was the fastest way out. She later promised to send Rs 5,000 after her salary and never did.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/17magvp/"
+    },
+    {
+      "sourceId": "1qsr19j",
+      "sourceSubreddit": "pune",
+      "createdAt": "2026-02-01T06:37:40.000Z",
+      "city": "Pune",
+      "neighborhood": "Koregaon Park",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 55,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 115,
+      "storyBody": "Tinder match claimed she was visiting Pune for ten days and set an 8 PM meeting near a busy lane. The number she gave was switched off, she finally appeared close to 9 PM about 500 m away, and then pushed hard for two specific clubs even after I said three times that I was not drinking. Her story kept shifting between her sister, a friend's birthday and not knowing the city, and she was carrying two phones. I politely ended it and went home.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1qsr19j/"
+    },
+    {
+      "sourceId": "1lsfuby",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2025-07-05T17:56:20.000Z",
+      "city": "Other",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 1150,
+      "timeWastedMins": 300,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 111,
+      "storyBody": "Bumble date: a three-hour drive, a coffee stop, then back to her place. She placed a delivery order using my number as cash on delivery and it turned out to be a half-kilo cake from a premium bakery plus two burgers along with the coffees. She then handed me the delivery agent's UPI scanner. Rs 1150, no offer to split. Within hours of a first meeting she was hinting at expensive gifts and demanding loyalty.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1lsfuby/"
+    },
+    {
+      "sourceId": "1iq5bb5",
+      "sourceSubreddit": "pune",
+      "createdAt": "2025-02-15T16:40:31.000Z",
+      "city": "Pune",
+      "neighborhood": "Koregaon Park",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Metro Lounge and Bar",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE",
+        "GHOSTED"
+      ],
+      "upvotes": 111,
+      "storyBody": "Got caught in a bill scam on a Valentine's-week date at a Pune lounge. I did not check prices before ordering; when she went to the washroom I looked at the menu and knew. I confronted her and asked for the manager, and five staff members surrounded me demanding payment. I ended up paying half, they refused to issue a bill, and she went to the washroom again and never returned. I was pushed out around 11:30 PM with only a parking receipt left.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1iq5bb5/"
+    },
+    {
+      "sourceId": "1o817no",
+      "sourceSubreddit": "bangalore",
+      "createdAt": "2025-10-16T09:04:35.000Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Lassi & More",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "GHOSTED"
+      ],
+      "upvotes": 104,
+      "storyBody": "Bumble match insisted on meeting near a Bangalore metro station and then only at one shady bar and kitchen nearby. I refused and suggested a decent cafe, which she rejected, then a small lassi shop. She agreed to that, but right after we ordered she said a friend was calling her and walked out.",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1o817no/"
+    },
+    {
+      "sourceId": "1hijkue",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2024-12-20T13:17:13.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Dhaula Kuan",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH"
+      ],
+      "upvotes": 101,
+      "storyBody": "Dating-app match set the meeting near a Delhi metro station and did not answer calls until I had already reached. She looked completely different from her app photos. She rejected every open, well-known outlet I suggested and led me into a second empty cafe's tucked-away corner. Within ten minutes a large hookah, roughly Rs 3,800 of shots, pizza, pasta and drinks were ordered without asking me. I said I was going to the washroom, walked out and rode off.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1hijkue/"
+    },
+    {
+      "sourceId": "1virhrj",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2026-08-08T09:27:00.000Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 97,
+      "storyBody": "Matched on a dating app in Bangalore and she called me to meet within hours. Once there she insisted we go only to one specific pub for drinks and would not consider anywhere else. Reviews of that pub described the same inflated-bill pattern, she had two phones and was texting someone the entire time. I declined and left.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1virhrj/"
+    },
+    {
+      "sourceId": "1kk16nx",
+      "sourceSubreddit": "pune",
+      "createdAt": "2025-05-11T13:36:13.000Z",
+      "city": "Pune",
+      "neighborhood": "Kharadi",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Valour Bar",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH"
+      ],
+      "upvotes": 95,
+      "storyBody": "Matched on Hinge in Pune and she pushed to meet the same day at a lounge inside an office complex. In person she matched neither her app photos nor her messaging profile picture, and she was very reluctant to move to a better-reviewed place in the same complex. I told her plainly that I was not getting robbed there; she did not argue, just said bye and left quickly.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1kk16nx/"
+    },
+    {
+      "sourceId": "1tssola",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-05-31T11:24:33.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 25400,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 94,
+      "storyBody": "Lost Rs 25,400 on my first date from a dating app. She chose the venue, things moved fast, and expensive drinks, hookah, food and assorted charges piled onto the bill. The date itself was surprisingly short. Searching afterwards I found many near-identical accounts and realised I had walked into the standard bar scam. What bothers me most is that I ignored my own instincts because I wanted the date to be real.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1tssola/"
+    },
+    {
+      "sourceId": "1kdnszd",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2025-05-03T08:02:35.000Z",
+      "city": "Mumbai",
+      "neighborhood": "Saki Naka",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 53000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE",
+        "GHOSTED"
+      ],
+      "upvotes": 92,
+      "storyBody": "Matched on Tinder in Mumbai and she insisted on one venue near Saki Naka for drinks. She steadily ordered top-shelf alcohol and the bill, presented in parts, ran to nearly Rs 53,000. After I paid she said she felt sleepy, left in a hurry, then stopped replying and blocked me everywhere. Days later another match pushed for the exact same restaurant using near-identical wording.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1kdnszd/"
+    },
+    {
+      "sourceId": "1mt2lcy",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2025-08-17T21:04:23.000Z",
+      "city": "Kolkata",
+      "neighborhood": "Rabindra Sarobar",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 6000,
+      "timeWastedMins": 30,
+      "venueName": "The Golden Leaf",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE",
+        "CATFISH"
+      ],
+      "upvotes": 86,
+      "storyBody": "Tinder match called me to a Kolkata lakeside spot for a first conversation and none of her photos matched her face. She took me to a rooftop cafe where the menu showed only Rs 299 for a coal change but the hookah was billed at Rs 4500, and the total came to Rs 7500 with no printed bill. I was moved to a dark corner, threatened, my phone was taken and I was held about half an hour until I agreed to pay. I negotiated it down to Rs 6000 and left.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1mt2lcy/"
+    },
+    {
+      "sourceId": "1qwjgau",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-02-05T12:02:03.000Z",
+      "city": "Mumbai",
+      "neighborhood": "Aarey Colony",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 150,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 84,
+      "storyBody": "Hinge match pushed to meet at 2 AM after her call-centre shift and first had me order an elaborate dinner for her on a delivery app. When we met she barely said hello and asked for a long night drive, then suggested a forested colony road at 2:30 AM. Across two to three hours of driving she stared out of the window and said virtually nothing, then sang to herself. The next day she said she missed me and asked me to transfer Rs 3,000 for medicines.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1qwjgau/"
+    },
+    {
+      "sourceId": "1s58a2g",
+      "sourceSubreddit": "Arrangedmarriage",
+      "createdAt": "2026-03-27T16:01:49.000Z",
+      "city": "Other",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "Matrimony Meet",
+      "expenseInr": 650,
+      "timeWastedMins": 150,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 80,
+      "storyBody": "Met a prospect through an arranged-marriage setup at a cafe and we talked for two to three hours. The bill was about Rs 1500 and he insisted on paying, so I let it be since we had agreed to meet again and I would pick up the next one. At 9 the next morning he texted asking for my share of Rs 570, then revised it to Rs 650 when I questioned the maths. He had also put his hand on my shoulder a few times while walking, which felt too familiar for a first meeting.",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1s58a2g/"
+    },
+    {
+      "sourceId": "1s0000u",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-03-21T19:13:08.000Z",
+      "city": "Hyderabad",
+      "neighborhood": "Gachibowli",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Air Live",
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 77,
+      "storyBody": "First date in Hyderabad started fine over drinks at a Gachibowli bar, and she suggested continuing at my place to watch a film we had both mentioned. Things moved much faster than I expected, and when I said I would rather use protection and offered to order some, her mood flipped instantly. After a few minutes of awkward silence she suddenly remembered early morning work, got dressed and left. My message the next morning got a reply only that evening.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1s0000u/"
+    },
+    {
+      "sourceId": "1dd4l9p",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2024-06-11T03:30:08.000Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 2000,
+      "timeWastedMins": 0,
+      "venueName": "Cabana",
+      "disasterTags": [
+        "GHOSTED",
+        "EXPENSIVE"
+      ],
+      "upvotes": 73,
+      "storyBody": "Matched on a dating app in Kolkata and insisted we meet at a pub I know well because of the cafe scams. She kept pushing for somewhere else, then finally came and said she had once dated the DJ there. We ate, drank, and I left early for a flight. While I was boarding she called asking for Rs 2,000, promising to return it by morning. I sent it half-expecting the outcome. The money never came and both her numbers now have me blocked.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1dd4l9p/"
+    },
+    {
+      "sourceId": "1q5htt5",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2026-01-06T12:55:40.000Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 71,
+      "storyBody": "Matched on Bumble in Mumbai and planned a cafe lunch. He dodged a video call, then on the morning of the date asked me to come to his apartment instead, which I refused. At the cafe the man who walked up was not the person in the profile photos. He calmly admitted he had used a friend's pictures and name because the friend looked smarter, gave a different name, and said he actually lives and works in another state. I ended it there; his account was already deleted when I tried to report him.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1q5htt5/"
+    },
+    {
+      "sourceId": "1qteztl",
+      "sourceSubreddit": "Arrangedmarriage",
+      "createdAt": "2026-02-01T23:51:08.000Z",
+      "city": "Other",
+      "neighborhood": "Other",
+      "platform": "Shaadi.com",
+      "dateType": "Matrimony Meet",
+      "expenseInr": 4560,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "PARENT_ATTENDED",
+        "GHOSTED"
+      ],
+      "upvotes": 39,
+      "storyBody": "Matched on Shaadi.com and her parents visited my home, where their first question was about my turnover; I misheard it and answered with my earnings. They said I seemed underconfident, then there was no contact for a month. She resurfaced, we met, and the Rs 4,500 restaurant bill came with no mention of splitting, nor Rs 60 for tea afterwards. She then skipped our next plan, apologised at 1 AM, went quiet another month, and ghosted the plan after that too.",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1qteztl/"
+    },
+    {
+      "sourceId": "1shus77",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2026-04-10T18:23:18.000Z",
+      "city": "Kolkata",
+      "neighborhood": "Dhakuria",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 1800,
+      "timeWastedMins": 0,
+      "venueName": "19th Day Lounge",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 37,
+      "storyBody": "Tinder match asked to meet only two days after matching and picked a landmark in Kolkata, then led me to a lounge that had just one other couple in it. After fries and two virgin mojitos she quietly tried to order a Rs 5555 hookah. I said I did not have that much money and left saying I did not like the place, but I still had to pay Rs 1800 for what we had already ordered, which was heavily overpriced. She then asked me to buy her chocolates, so I excused myself.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1shus77/"
+    },
+    {
+      "sourceId": "1popg9l",
+      "sourceSubreddit": "Arrangedmarriage",
+      "createdAt": "2025-12-17T06:25:18.000Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "Matrimony Meet",
+      "expenseInr": 0,
+      "timeWastedMins": 30,
+      "venueName": "Starbucks",
+      "disasterTags": [
+        "WRONG_VIBE",
+        "CATFISH"
+      ],
+      "upvotes": 37,
+      "storyBody": "Arranged-marriage prospect in Mumbai turned up half an hour late despite my confirming the time repeatedly, and looked substantially different from her pictures. She made no gesture towards the bill and looked down at her phone when it arrived. Her answers contradicted our chats about drinking and being vegetarian, and she ended with a two-minute rant about how bad India is. She did not thank me when I dropped her home and deleted my number the next day.",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1popg9l/"
+    },
+    {
+      "sourceId": "1teinm0",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-05-16T03:59:29.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "South Campus",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 4967,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 32,
+      "storyBody": "Matched on a location-based app and met near a South Campus cafe strip in Delhi. As we walked around, a man approached her and suggested one particular cafe, which she agreed to instantly. Inside she ordered hookah, a veg platter and two cans of Coke, and the bill came to Rs 4,967, far above what that order should cost. The coordination between her, the man who steered us there and the cafe made the whole thing feel staged.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1teinm0/"
+    },
+    {
+      "sourceId": "1ommnc0",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2025-11-02T17:02:24.000Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 32,
+      "storyBody": "Matched on Bumble, talked on and off, and finally met for what I would call a not-quite-a-date in Gurgaon. I showed up having made an effort; he arrived in a crinkled shirt with messy hair and dirty Crocs, no grooming, no perfume, and breath strong enough to make every sentence a test of my lung capacity. Basic hygiene felt like a low bar to clear.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1ommnc0/"
+    },
+    {
+      "sourceId": "1dwi156",
+      "sourceSubreddit": "noida",
+      "createdAt": "2024-07-06T05:12:03Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 28,
+      "storyBody": "A man in his forties met a much younger match from a dating app for what he pictured as a quick coffee. She wanted to drink instead. Before he finished his first shot she was on her third, along with several energy drinks, and then ordered flaming shots to celebrate the evening. He kept saying yes to everything and was floored by the size of the final bill.",
+      "sourceUrl": "https://www.reddit.com/r/noida/comments/1dwi156/"
+    },
+    {
+      "sourceId": "1i2jhue",
+      "sourceSubreddit": "bangalore",
+      "createdAt": "2025-01-16T07:16:12Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 25,
+      "storyBody": "She matched with a man on Hinge and met him outside a bar. He looked nothing like his photos and spoke about himself for most of the evening without asking her anything. She offered several times to split the bill at the table and he refused. Days later, after she told him she wasn't feeling a connection, he messaged her the bar bill and asked her to split it, which left her feeling used.",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1i2jhue/"
+    },
+    {
+      "sourceId": "1qyznc7",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-02-08T04:43:48Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED"
+      ],
+      "upvotes": 24,
+      "storyBody": "He met a verified Bumble match at a terrace bar in Delhi. It was cold, so he lent her his jacket and forgot to take it back at the end of the night. She replied the next day saying she had a nice time and they agreed to meet again in a couple of days. A few hours later her account was gone, deleted rather than unmatched, and the jacket went with her.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1qyznc7/"
+    },
+    {
+      "sourceId": "1uhdytv",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-06-27T21:06:24Z",
+      "city": "Hyderabad",
+      "neighborhood": "Somajiguda",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Head Quarters Rest O Bar",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 22,
+      "storyBody": "A Bumble match asked him out and shared a meeting point, then steered him to a nearby bar in Somajiguda once he arrived. She immediately picked a whisky priced around Rs 2,700 for a 30 ml peg and said she drank nothing else. He refused to order at that price. Minutes later she said the crowd was making her anxious and left. He later found several similar accounts about the same bar online.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1uhdytv/"
+    },
+    {
+      "sourceId": "1uz9so6",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2026-07-17T19:34:50Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 120,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH"
+      ],
+      "upvotes": 19,
+      "storyBody": "He travelled nearly two hours to meet a match near a Delhi metro station, and in person she looked nothing like her heavily edited photos. She put him in an auto and picked the cafe. When he objected to the first place she readily moved to a second, then began ordering until the bill was near Rs 10,000. He cancelled the order, paid only for the bottled water and walked out. She refused a regular coffee shop and left.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1uz9so6/"
+    },
+    {
+      "sourceId": "1o7zo2l",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2025-10-16T07:20:54Z",
+      "city": "Hyderabad",
+      "neighborhood": "Banjara Hills",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 120,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE",
+        "GHOSTED"
+      ],
+      "upvotes": 17,
+      "storyBody": "They matched on Bumble over the same taste in music and films and met at a cafe in Banjara Hills. For two hours she laughed at his jokes and even danced with him. The bill came, she made no move to split it, and he paid. Walking out, he asked when they could meet again and she said the vibe wasn't there and it was better to stop. He sent her a payment QR asking for half the bill. She paid, then blocked him.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1o7zo2l/"
+    },
+    {
+      "sourceId": "1cwng2x",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2024-05-20T19:02:51Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Raj Bagh",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 8000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 15,
+      "storyBody": "He met two matches from a dating app on consecutive days. The first pushed for a bar, and when he refused she made him buy sweets and a cigarette pack before leaving and blocking him. The next day another match called him to a cafe near a college in Ghaziabad, ordered hookah, vodka shots and pizza, then said her stomach hurt and had to go. The bill was about Rs 8,000, hookah alone Rs 3,000, and she blocked him everywhere.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1cwng2x/"
+    },
+    {
+      "sourceId": "1kua0vb",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2025-05-24T12:04:19Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "South Campus",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 6500,
+      "timeWastedMins": 45,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 14,
+      "storyBody": "A match he met on a location-based dating app picked the venue near Delhi's South Campus, an upscale cafe. She insisted on hookah and ordered fast: two energy drinks at Rs 500 each and a veg platter billed at Rs 1,200. They talked barely 30 to 45 minutes before she said she had to leave and called for the bill, which came to Rs 6,500. She claimed she had no cash and would return it the next day. He paid.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1kua0vb/"
+    },
+    {
+      "sourceId": "16kay3m",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2023-09-16T15:56:42Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 20,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 14,
+      "storyBody": "She met a Bumble match at a mall. He spent the evening talking up his foreign degree, how much better life abroad was, and his ex. He kept pushing her to drink after she said no, then stepped out to take a call and left her sitting alone with the food for about 20 minutes. He made a dismissive remark about older women enjoying themselves at the next table and quizzed her on flags on the way out.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/16kay3m/"
+    },
+    {
+      "sourceId": "1tnym6p",
+      "sourceSubreddit": "noida",
+      "createdAt": "2026-05-26T06:32:32Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Gaur Central Mall",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 13,
+      "storyBody": "He matched with a verified Tinder profile and they talked for a week or two before planning to meet at a mall in Ghaziabad. Instead of going into the mall, she said she knew a quieter place nearby to sit. One look at the cafe she led him to was enough. He turned around at the door and walked away without going in.",
+      "sourceUrl": "https://www.reddit.com/r/noida/comments/1tnym6p/"
+    },
+    {
+      "sourceId": "1sbtlhv",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-04-03T23:41:21Z",
+      "city": "Hyderabad",
+      "neighborhood": "Rajbhavan Road",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 12000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 12,
+      "storyBody": "They matched on a dating app and met the same day near Rajbhavan Road. Instead of the cafe he expected, she led him upstairs to a dim lounge and ordered steadily: 90 ml of whisky for herself, 60 ml for him, energy drinks, noodles, lollipops and fries. A waiter quietly told him the bill had already crossed Rs 12,000 and the next order would push it past Rs 20,000. He said it was beyond his budget, she asked for everything packed and left, and he paid.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1sbtlhv/"
+    },
+    {
+      "sourceId": "1vrem3t",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2026-08-18T04:10:04Z",
+      "city": "Kolkata",
+      "neighborhood": "Lake Mall Road",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 12800,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "GHOSTED",
+        "EXPENSIVE"
+      ],
+      "upvotes": 10,
+      "storyBody": "He matched on Hinge and met her near Lake Mall Road in Kolkata, where she looked nothing like her profile. She took him to a hookah bar she said had just opened and ordered food nonstop. He felt strangely intoxicated after smoking a cigarette handed to him by someone there. Staff said the kitchen was closing, then an accident meant they had to leave. The bill was about Rs 12,800 and included two hookahs he never ordered. She vanished while he argued, so he paid and left.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vrem3t/"
+    },
+    {
+      "sourceId": "1lsbroj",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2025-07-05T14:57:08Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE",
+        "GHOSTED"
+      ],
+      "upvotes": 7,
+      "storyBody": "After months of on-and-off chatting, including an earlier stretch where he ghosted her, she finally met her Bumble match for a simple riverside date with tea and ice cream. He flattered her all evening but made her take more than 40 photos of him, nagging for retakes each time. He paid only for the ice cream and left her to cover the rest of the food. From the next day his replies went cold.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1lsbroj/"
+    },
+    {
+      "sourceId": "1kc8ojl",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2025-05-01T13:25:59Z",
+      "city": "Other",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 4000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 7,
+      "storyBody": "She insisted on meeting for drinks on a weekday afternoon and picked a work cafe that served beer. He brought flowers and chocolates and they talked for three or four hours. She ordered four beers while he ate, then looked away when the roughly Rs 4,000 bill arrived, so he paid. Three more dates followed, almost all on him. When he suggested splitting an expensive hotel stay, she told him love was expensive and ended it.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1kc8ojl/"
+    },
+    {
+      "sourceId": "1tfuvud",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-05-17T16:50:27Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 10500,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 6,
+      "storyBody": "A Tinder match pressed him for his number, called past midnight and asked him to meet near a Delhi metro station. She walked him past chain outlets to a third-floor cafe where the staff seemed to know her, then ordered without opening the menu: vodka shots, a platter, whisky for him and hookah he had refused. Cold coffee alone was Rs 700. She barely ate, kept drinking, and after about an hour the bill was Rs 10,500.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1tfuvud/"
+    },
+    {
+      "sourceId": "1p09w1u",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2025-11-18T11:50:29Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE",
+        "GHOSTED"
+      ],
+      "upvotes": 6,
+      "storyBody": "Her first ever date, at a cafe near a mall in Kolkata, went sideways mostly on her side. He arrived early with a bouquet and carried the conversation while she froze up. She asked him to order for her, then blurted out a story about a friend's divorce and described a school crush as a fling without knowing what the word implied. He paid, walked her to the bus stop and asked her to text when she got home, then never messaged again.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1p09w1u/"
+    },
+    {
+      "sourceId": "1v295do",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-07-21T05:23:55Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Aerocity",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 5,
+      "storyBody": "A match who said she was an investment banker moved the chat to another messaging app, then met him for coffee at a five-star hotel and paid for her own drink. She talked about leaving no digital footprint and proposed a room in Aerocity, insisting he hand over about Rs 5,000 in cash so nothing was traceable. At the back of the hotel she asked for the cash while she fetched the key. He said he didn't have the full amount and left.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1v295do/"
+    },
+    {
+      "sourceId": "1quldat",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2026-02-03T07:15:24Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 5,
+      "storyBody": "They matched on Hinge in the morning and met the same evening near her office in Gurgaon. The talk went well across three or four food outlets, all of which he paid for while she never offered. She said she wanted nothing physical, then dropped heavy hints about coming over and turned the decision into a game. When he asked whether cuddling would be alright, she flatly refused, called him dumb on the walk home and said that question was the dealbreaker.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1quldat/"
+    },
+    {
+      "sourceId": "1q0xupf",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-01-01T06:43:24Z",
+      "city": "Hyderabad",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 15,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 4,
+      "storyBody": "For his first ever date he took a cab to meet a match outside her office in Hyderabad, and she told him not to admit he hadn't come on a bike. At the cafe the milkshake she wanted wasn't available so they settled for juices. Ten minutes in, her mother called and she said she had to be home in fifteen. She then had the snacks parcelled and added rice dishes at the counter, saying it would sort her dinner. He paid, unable to say no.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1q0xupf/"
+    },
+    {
+      "sourceId": "1kzm0js",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-05-31T02:11:55Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 10000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 4,
+      "storyBody": "He went on a date with a woman he met on a dating app and says it cost him about Rs 10,000 after she ran up a large bill on drinks and smokes at the venue. He posted it as a warning, saying some profiles are on commission with particular restaurants and bars.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1kzm0js/"
+    },
+    {
+      "sourceId": "1tezduq",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-05-16T17:06:10Z",
+      "city": "Hyderabad",
+      "neighborhood": "Other",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Lulu Mall",
+      "disasterTags": [
+        "WRONG_VIBE",
+        "COMMUTE_DISASTER"
+      ],
+      "upvotes": 3,
+      "storyBody": "A Bumble match pushed for a same-day meeting at a mall, saying she was new to the city, and her stated profession kept shifting. Traffic made him half an hour late, met with repeated calls and an irritated voice note. The food court had no seats, so she steered him to a pub on the top floor and urged him to drink even after he said he was driving. He suggested going elsewhere, she refused, and afterwards he noticed her circling the mall texting instead of leaving.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1tezduq/"
+    },
+    {
+      "sourceId": "1ry52bs",
+      "sourceSubreddit": "pune",
+      "createdAt": "2026-03-19T16:25:51Z",
+      "city": "Pune",
+      "neighborhood": "Koregaon Park",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 50,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "GHOSTED"
+      ],
+      "upvotes": 3,
+      "storyBody": "He rode about 25 km across Pune to meet a match at an ice cream shop in Koregaon Park and bought flowers on the way. She turned up nearly an hour late, moved the meeting point, had incoming calls blocked, and looked younger and different from her photos. She led him straight to a third-floor club, picked a corner table, asked him to order while she used the washroom, then texted that she had taken an auto home. He left without ordering.",
+      "sourceUrl": "https://www.reddit.com/r/pune/comments/1ry52bs/"
+    },
+    {
+      "sourceId": "1rppgve",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-03-10T06:29:24Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Malviya Nagar",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 11437,
+      "timeWastedMins": 0,
+      "venueName": "GT Urban Cafe",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 3,
+      "storyBody": "A Tinder match insisted on meeting the same day at one specific cafe in Malviya Nagar and would consider nowhere else. The place was nearly empty. She ordered vodka shots and hookah quickly without checking the menu. The bill came to Rs 11,437 with vague line items, an automatic service charge, and payment collected by UPI into a personal account rather than the cafe's. He has filed cyber crime and consumer complaints.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1rppgve/"
+    },
+    {
+      "sourceId": "1peuorq",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-12-05T13:11:21Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "East Delhi",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 30000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 3,
+      "storyBody": "A Tinder match insisted on one specific bar in a busy East Delhi commercial area despite his repeated requests to eat elsewhere. He neither drinks nor smokes, and she ordered expensive items he never asked for while he tried several times to leave. When he resisted paying, staff produced an inflated bill of roughly Rs 30,000, then surrounded him at the door and forced a UPI payment. He says he was struck and suffered ear damage, and is now seeking legal advice.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1peuorq/"
+    },
+    {
+      "sourceId": "1krv3vb",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-05-21T11:08:05Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 30,
+      "venueName": "Cross River Mall",
+      "disasterTags": [
+        "CATFISH",
+        "BILL_INFLATION_SCAM"
+      ],
+      "upvotes": 3,
+      "storyBody": "A Tinder match asked him to meet at a mall in east Delhi and said she wanted whisky at a pub. He checked reviews first and went anyway to see how it worked. She called from a different number than before and looked nothing like her pictures. She kept steering him to the mall's pubs and refused a pizza chain, spent fifteen minutes in the washroom, then said there was no point if he wouldn't go to a club and walked off. She had already unmatched him.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1krv3vb/"
+    },
+    {
+      "sourceId": "1vi5zlp",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2026-08-07T16:50:25Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 9000,
+      "timeWastedMins": 0,
+      "venueName": "Dum Maaro Dum",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 2,
+      "storyBody": "Matched on a dating app and she picked a lounge inside a hotel building. She said a hookah would cost ₹200-400; it was billed at ₹5,577 plus taxes. The cafe refused to drop unserved items and the bill crossed ₹9,000. She then pushed to rent a room in the same building, and after we left she disappeared back into that building.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vi5zlp/"
+    },
+    {
+      "sourceId": "1vbt2oq",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-07-31T14:49:06Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 25000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 2,
+      "storyBody": "On a first date she insisted on a bar on the outskirts instead of a cafe. She drank steadily while I did not have a sip, and the bill came to ₹25,000. She slipped off to the washroom right before it arrived, then said she had no money on her, so I paid to avoid a scene and she left immediately after.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1vbt2oq/"
+    },
+    {
+      "sourceId": "1uza47z",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-07-17T19:46:45Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Vishwavidyalaya",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 120,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "COMMUTE_DISASTER"
+      ],
+      "upvotes": 1,
+      "storyBody": "Travelled nearly two hours to meet a match near a north Delhi metro station. She put us straight into an auto to a place she chose and began ordering; the tab was already touching ₹10,000. Her photos were heavily edited and she looked nothing like them. I cancelled the order, paid only for bottled water and walked out. She refused a normal coffee shop and left.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1uza47z/"
+    },
+    {
+      "sourceId": "1tnynhq",
+      "sourceSubreddit": "IndianBoysOnTinder",
+      "createdAt": "2026-05-26T06:34:37Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Ghaziabad",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": "Gaur Central Mall",
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 1,
+      "storyBody": "Talked to a verified Tinder match for a couple of weeks and planned to meet at a mall in Ghaziabad. Instead of going inside, she steered me towards a quiet cafe nearby that she already knew. The place looked exactly like the setups people keep warning about, so I turned around at the door and walked away without going in.",
+      "sourceUrl": "https://www.reddit.com/r/IndianBoysOnTinder/comments/1tnynhq/"
+    },
+    {
+      "sourceId": "1soarq7",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-04-17T19:20:53Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "GTB Nagar",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 22000,
+      "timeWastedMins": 0,
+      "venueName": "Bagheera",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "CATFISH",
+        "EXPENSIVE"
+      ],
+      "upvotes": 1,
+      "storyBody": "A Bumble match pushed to meet the same day, then kept shifting venues until we landed at a lounge in GTB Nagar. She ordered shot after shot plus hookah, barely touched the food, and told me I would leave only when she said so. The bill came to about ₹22,000, of which roughly ₹800 was mine, and a man followed me out every time I stepped away to take a call.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1soarq7/"
+    },
+    {
+      "sourceId": "1rtpe95",
+      "sourceSubreddit": "hyderabad",
+      "createdAt": "2026-03-14T17:30:11Z",
+      "city": "Hyderabad",
+      "neighborhood": "Gachibowli",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 15000,
+      "timeWastedMins": 600,
+      "venueName": "DSL Virtue Mall",
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 1,
+      "storyBody": "First meeting with someone I knew only from Snapchat turned into a full day out: a long drive to pick her up, breakfast, a temple visit, a movie with around ₹3,000 of tickets, roughly ₹7,000 of shopping she wanted, then dinner at a second outlet after the first did not have her dish. It added up to about ₹15,000 and she never once offered to contribute.",
+      "sourceUrl": "https://www.reddit.com/r/hyderabad/comments/1rtpe95/"
+    },
+    {
+      "sourceId": "1r6jaxs",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2026-02-16T19:28:53Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 1,
+      "storyBody": "Matched with someone who refused to share anything about herself before meeting. The date itself, on my birthday, seemed fine, but she never acknowledged the bill, took away a coffee and a dessert, and then spent days texting that I had not fed her properly. She kept angling for another meal until I blocked her.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1r6jaxs/"
+    },
+    {
+      "sourceId": "1popexb",
+      "sourceSubreddit": "Arrangedmarriage",
+      "createdAt": "2025-12-17T06:23:05Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "Matrimony Meet",
+      "expenseInr": 0,
+      "timeWastedMins": 30,
+      "venueName": "Starbucks",
+      "disasterTags": [
+        "CATFISH",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 1,
+      "storyBody": "Arranged-marriage match agreed on 5:30 and turned up at 6. She looked very different from her pictures, contradicted what she had said on chat about drinking and being vegetarian, never acknowledged the bill, and finished with a long rant about how bad India is compared to everywhere else. She stayed on her phone the whole drive home, said no thanks, and deleted my number the next day.",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1popexb/"
+    },
+    {
+      "sourceId": "1lyop02",
+      "sourceSubreddit": "Bengaluru",
+      "createdAt": "2025-07-13T09:29:50Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED"
+      ],
+      "upvotes": 1,
+      "storyBody": "Three Hinge dates over three weekends. Each one felt normal - jokes, photos, food, split bills, and I walked each of them home afterwards. Then within a day of every single date the replies went dry and all three ghosted me without a word of explanation.",
+      "sourceUrl": "https://www.reddit.com/r/Bengaluru/comments/1lyop02/"
+    },
+    {
+      "sourceId": "1ju49z5",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2025-04-08T03:32:32Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 3165,
+      "timeWastedMins": 0,
+      "venueName": "McDonald's",
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "GHOSTED"
+      ],
+      "upvotes": 1,
+      "storyBody": "Second meet-up with a dating app match. Before we ate, she took me to a ration shop and asked me to pay her ₹3,165 bill online, promising to hand the cash back. We then went to a fast food outlet, she excused herself to the washroom after we ordered, and never returned. Blocked on Instagram and WhatsApp, money gone.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1ju49z5/"
+    },
+    {
+      "sourceId": "1vtrw1k",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-08-20T18:36:43Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Tinder",
+      "dateType": "First Date",
+      "expenseInr": 5000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "EXPENSIVE"
+      ],
+      "upvotes": 0,
+      "storyBody": "A Tinder match spent days describing money troubles and health problems, then asked how much I could help with financially before agreeing to meet, and insisted I book a room first. When she arrived she looked nothing like her heavily edited photos. Every part of the meeting circled back to money, and I handed over ₹5,000 just to end it. Walked away feeling manipulated and stupid.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1vtrw1k/"
+    },
+    {
+      "sourceId": "1vcpwlw",
+      "sourceSubreddit": "kolkata",
+      "createdAt": "2026-08-01T15:11:46Z",
+      "city": "Kolkata",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 14200,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "EXPENSIVE",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "My first date ever. She picked me up from the metro and took me to what I assumed was a cafe but turned out to be a pub. I neither drink nor smoke, but she ordered champagne after champagne plus two hookahs. The bill was ₹14,200, close to a quarter of my monthly pay. She was in the washroom when it came and never asked what it added up to.",
+      "sourceUrl": "https://www.reddit.com/r/kolkata/comments/1vcpwlw/"
+    },
+    {
+      "sourceId": "1v1bptw",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-07-20T04:48:31Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Hinge match picked me up in sweatpants, then suggested buying vodka from a store to drink in the car so we would save money at the bar. Inside he kept ordering rounds after I said I wanted to slow down, got far too handsy in the car afterwards until I moved away, then drove and got pulled over by police for drunk driving. I cabbed back to my hostel and woke up blocked on every app.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1v1bptw/"
+    },
+    {
+      "sourceId": "1u0xkkg",
+      "sourceSubreddit": "gurgaon",
+      "createdAt": "2026-06-09T06:57:56Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 1000,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Deliberately kept the first date low-key: a drive and average pasta, bill around ₹1,000. The nonchalance from both sides was unreal. He dropped me home early to head to a party he was clearly more excited about, and took a call from a contact saved under a pet name, claiming it was his mother. Next day I offered to split and he sent his payment QR instantly.",
+      "sourceUrl": "https://www.reddit.com/r/gurgaon/comments/1u0xkkg/"
+    },
+    {
+      "sourceId": "1t2gifd",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-05-03T09:13:15Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Connaught Place",
+      "platform": "Other",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Met someone through Instagram and the first meeting felt like a film. The second date in Connaught Place was the opposite. He turned up frustrated about work and spent the whole time venting about his boss, wanting to quit, and how awful his parents were. He seemed completely uninterested in me and kept pushing to move on somewhere else.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1t2gifd/"
+    },
+    {
+      "sourceId": "1snfrlg",
+      "sourceSubreddit": "delhi",
+      "createdAt": "2026-04-16T20:40:59Z",
+      "city": "Delhi-NCR",
+      "neighborhood": "Hauz Khas",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 3500,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "BILL_INFLATION_SCAM",
+        "EXPENSIVE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Bumble match picked a cafe in Hauz Khas. We met at the metro station and it started off fine and shy on both sides. She said she was not hungry and ordered only one fancy drink while I ate. The bill came to ₹3,500 and the pricing felt absurd to me - a diet coke alone was billed at ₹150 when it costs ₹40 near my place. Ruined the whole day.",
+      "sourceUrl": "https://www.reddit.com/r/delhi/comments/1snfrlg/"
+    },
+    {
+      "sourceId": "1s77qdf",
+      "sourceSubreddit": "mumbai",
+      "createdAt": "2026-03-29T21:34:53Z",
+      "city": "Mumbai",
+      "neighborhood": "Other",
+      "platform": "Hinge",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "CATFISH",
+        "GHOSTED"
+      ],
+      "upvotes": 0,
+      "storyBody": "Met a Hinge match three times - a movie once, drives the other two times. He said he was 26, looked different from his pictures, would vanish for stretches and reappear, and stayed reachable only on WhatsApp with no other online presence. After the third meeting he blocked me everywhere. Two years later I came across a reel and realised he was far older, married, and had used a different name with me.",
+      "sourceUrl": "https://www.reddit.com/r/mumbai/comments/1s77qdf/"
+    },
+    {
+      "sourceId": "1qs7w1g",
+      "sourceSubreddit": "Arrangedmarriage",
+      "createdAt": "2026-01-31T17:07:36Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "Matrimony Meet",
+      "expenseInr": 0,
+      "timeWastedMins": 180,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED",
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Matrimonial app match: a month of daily texting and calls before we finally met for about three hours. She was vague about what she actually wanted, said her family expected a groom who already owned a house in the city, and visibly made a face and rolled her eyes when she saw I use an Android phone. She went silent for a week afterwards, resurfaced briefly, then blocked me on both apps.",
+      "sourceUrl": "https://www.reddit.com/r/Arrangedmarriage/comments/1qs7w1g/"
+    },
+    {
+      "sourceId": "1mvkg9d",
+      "sourceSubreddit": "bangalore",
+      "createdAt": "2025-08-20T16:56:57Z",
+      "city": "Bangalore",
+      "neighborhood": "Koramangala",
+      "platform": "Bumble",
+      "dateType": "First Date",
+      "expenseInr": 0,
+      "timeWastedMins": 0,
+      "venueName": null,
+      "disasterTags": [
+        "GHOSTED"
+      ],
+      "upvotes": 0,
+      "storyBody": "Matched on Bumble and had what felt like a great date at a bar in Koramangala, then she started ignoring me the very next day. Later a friend described the same sequence with the same profile at a restaurant in another part of the city: warm chat, one meal out, then complete silence.",
+      "sourceUrl": "https://www.reddit.com/r/bangalore/comments/1mvkg9d/"
+    },
+    {
+      "sourceId": "1fh81er",
+      "sourceSubreddit": "Indiangirlsontinder",
+      "createdAt": "2024-09-15T08:43:37Z",
+      "city": "Bangalore",
+      "neighborhood": "Other",
+      "platform": "Other",
+      "dateType": "Casual",
+      "expenseInr": 0,
+      "timeWastedMins": 60,
+      "venueName": null,
+      "disasterTags": [
+        "WRONG_VIBE"
+      ],
+      "upvotes": 0,
+      "storyBody": "Met up with someone who reached out after a post of mine. We got ice cream and talked for about an hour, but it was obvious our interests did not overlap at all - most of it was history, journalism and her home state, none of which I could engage with. I do not mind paying, but she joked that she had really come for the free ice cream, which finished off whatever interest was left.",
+      "sourceUrl": "https://www.reddit.com/r/Indiangirlsontinder/comments/1fh81er/"
+    }
+  ],
+  "skipped": [
+    {
+      "sourceId": "1qsdj6f",
+      "reason": "Third-party hearsay - author retells a friend's scammed date, not firsthand"
+    },
+    {
+      "sourceId": "1ph6f8j",
+      "reason": "Third-party hearsay - about a junior colleague's date"
+    },
+    {
+      "sourceId": "1r5jo2c",
+      "reason": "Third-party hearsay - explicitly a friend's story"
+    },
+    {
+      "sourceId": "1ras129",
+      "reason": "Ordinary/positive date - author calls it a good date, no disaster"
+    },
+    {
+      "sourceId": "1kmlmns",
+      "reason": "Third-party hearsay - a date's recounted past assault, not the author's own date experience"
+    },
+    {
+      "sourceId": "1rjwggx",
+      "reason": "Third-party hearsay - friend's scam recovery, mostly an appreciation post"
+    },
+    {
+      "sourceId": "1fhg31k",
+      "reason": "Screenshot post with almost no narrative and no in-person meeting"
+    },
+    {
+      "sourceId": "1q84859",
+      "reason": "Not a date story - civic campaign about park timings"
+    },
+    {
+      "sourceId": "1tslo63",
+      "reason": "No in-person meeting - author recognised the pattern and never met"
+    },
+    {
+      "sourceId": "1q3kkg8",
+      "reason": "No in-person meeting - unmatched before meeting"
+    },
+    {
+      "sourceId": "17hc52h",
+      "reason": "Third-party - posted on behalf of a friend"
+    },
+    {
+      "sourceId": "1v3e5fl",
+      "reason": "Generic discussion about moving out of parents' home, not a date story"
+    },
+    {
+      "sourceId": "1pcapsf",
+      "reason": "Third-party hearsay - a colleague's date recounted by the author"
+    },
+    {
+      "sourceId": "1pba4bq",
+      "reason": "No in-person meeting - escaped at the chat stage, mostly screenshots"
+    },
+    {
+      "sourceId": "16omqm4",
+      "reason": "Relationship/advice post about months of dating spend, no specific in-person bad date"
+    },
+    {
+      "sourceId": "1plgj27",
+      "reason": "Relationship/situationship discussion seeking opinions, no single in-person bad date"
+    },
+    {
+      "sourceId": "1pudxev",
+      "reason": "Relationship/breakup story spanning nine months, not a bad date"
+    },
+    {
+      "sourceId": "1okvg5v",
+      "reason": "Situationship/cheating story, not a discrete bad in-person date"
+    },
+    {
+      "sourceId": "1ofqpxe",
+      "reason": "Seeking post - asking for help identifying a cafe, no meeting happened"
+    },
+    {
+      "sourceId": "1l6ogki",
+      "reason": "Ordinary date - author says it wasn't bad, post is asking for a second-date opinion"
+    },
+    {
+      "sourceId": "1svhkdx",
+      "reason": "Third-party - author's friend's date, author was not present"
+    },
+    {
+      "sourceId": "1pyl7nd",
+      "reason": "No in-person meeting - chat-stage warning post"
+    },
+    {
+      "sourceId": "1utt50k",
+      "reason": "Attempted sexual assault and active police complaint with identifying employer details; not suitable bad-date content"
+    },
+    {
+      "sourceId": "1sna9u6",
+      "reason": "No in-person meeting - anticipating a possible scam, date not yet happened"
+    },
+    {
+      "sourceId": "1c32t3b",
+      "reason": "Generic PSA about scam patterns, no firsthand date narrative"
+    },
+    {
+      "sourceId": "1p699ak",
+      "reason": "Relationship story seeking advice about a partner going distant"
+    },
+    {
+      "sourceId": "1n829oc",
+      "reason": "Exposé/discussion about a club scam operation, no firsthand date narrative"
+    },
+    {
+      "sourceId": "18ud55i",
+      "reason": "No in-person meeting; author had not committed to meet and is asking for advice"
+    },
+    {
+      "sourceId": "1t0lgf6",
+      "reason": "No in-person meeting; only chat screenshots and a plan to waste her time"
+    },
+    {
+      "sourceId": "1qtcyd3",
+      "reason": "Generic speculation about scams and missing persons; no firsthand in-person date"
+    },
+    {
+      "sourceId": "1ny1gfr",
+      "reason": "No in-person meeting; unmatched during chat"
+    },
+    {
+      "sourceId": "1imjait",
+      "reason": "Hearsay; a male friend's experience, plus general safety advice"
+    },
+    {
+      "sourceId": "1ms8zxr",
+      "reason": "Not firsthand; compiled list of reported scam venues from news and other posts"
+    },
+    {
+      "sourceId": "1ancxxe",
+      "reason": "No in-person meeting; author declined the invitation and asks for others experiences"
+    },
+    {
+      "sourceId": "1hhtwm9",
+      "reason": "No in-person meeting; matched only and asking for ideas"
+    },
+    {
+      "sourceId": "1qi5ac1",
+      "reason": "Not the author's own date; a waiter observing another couple"
+    },
+    {
+      "sourceId": "1j5h2nl",
+      "reason": "Long-distance relationship and abuse story, not an in-person date experience"
+    },
+    {
+      "sourceId": "1pzl7qr",
+      "reason": "No narrative of an in-person meet; suspicion post about profiles"
+    },
+    {
+      "sourceId": "1oojtnt",
+      "reason": "Toxic live-in relationship story, not a bad date experience"
+    },
+    {
+      "sourceId": "1s36d7b",
+      "reason": "Office friendship and repeated ghosting story; not a bad date narrative"
+    },
+    {
+      "sourceId": "1svzhf3",
+      "reason": "Positive date; a cheap and pleasant evening"
+    },
+    {
+      "sourceId": "1vo4xa5",
+      "reason": "Pre-date advice request; no meeting had happened"
+    },
+    {
+      "sourceId": "1rmpgm8",
+      "reason": "Ongoing arranged-marriage courtship and advice request about hidden past relationships, not a bad date"
+    },
+    {
+      "sourceId": "1r70815",
+      "reason": "No in-person meeting; red flags spotted during chat only"
+    },
+    {
+      "sourceId": "1g4u818",
+      "reason": "No in-person meeting described; call to blacklist scammers"
+    },
+    {
+      "sourceId": "1ru7wwl",
+      "reason": "No firsthand in-person narrative; venue accusation only"
+    },
+    {
+      "sourceId": "1q84hui",
+      "reason": "Unrelated topic (park timings campaign)"
+    },
+    {
+      "sourceId": "1q56i0q",
+      "reason": "Pre-date advice and scam pattern checklist, no specific firsthand date"
+    },
+    {
+      "sourceId": "1dj90it",
+      "reason": "Seeking date ideas; prior dates described positively"
+    },
+    {
+      "sourceId": "1pm3z09",
+      "reason": "No in-person meeting; ghosted before meeting, asking whether it was a scam"
+    },
+    {
+      "sourceId": "1tc63ln",
+      "reason": "Generic derogatory rant with only vague fragments, not a coherent firsthand date narrative"
+    },
+    {
+      "sourceId": "1r0wvhy",
+      "reason": "Hearsay about a friend, and no in-person meeting took place"
+    },
+    {
+      "sourceId": "1laz1hp",
+      "reason": "Emotional vent about healing; no in-person date"
+    },
+    {
+      "sourceId": "1uqit04",
+      "reason": "Unrelated topic (utility company collecting ID documents)"
+    },
+    {
+      "sourceId": "140l3da",
+      "reason": "Positive date that went well"
+    },
+    {
+      "sourceId": "1qia9v3",
+      "reason": "Hearsay; a friend's scam experience"
+    },
+    {
+      "sourceId": "1ri2o45",
+      "reason": "Generic discussion and questions about dating norms across many interactions, not a single firsthand date narrative"
+    },
+    {
+      "sourceId": "1qf4j2k",
+      "reason": "General opinion on splitting bills, explicitly excludes dates"
+    },
+    {
+      "sourceId": "1sl5yfe",
+      "reason": "Relationship and cheating story, not a bad in-person date; the date described went well"
+    },
+    {
+      "sourceId": "1iffprc",
+      "reason": "Advice-seeking post about never having dated; no specific bad date narrative"
+    },
+    {
+      "sourceId": "1rw42fy",
+      "reason": "Pre-date suspicion only; the meeting never happened"
+    },
+    {
+      "sourceId": "16dkrp1",
+      "reason": "Pre-date advice request about avoiding scams; no in-person meeting"
+    },
+    {
+      "sourceId": "1c6a0cg",
+      "reason": "Positive date; poster calls it a great date"
+    },
+    {
+      "sourceId": "1sgd3y7",
+      "reason": "Relationship and breakup story about a partner past, not a bad date"
+    },
+    {
+      "sourceId": "1pgo4wd",
+      "reason": "Two-month relationship and suspected cheating story, not a single bad date"
+    },
+    {
+      "sourceId": "1sm2fd0",
+      "reason": "Pre-date scam suspicion and police follow-up; no meeting took place"
+    },
+    {
+      "sourceId": "1ipfk4v",
+      "reason": "Date itself went well; grievance is post-date discovery that she had a boyfriend"
+    },
+    {
+      "sourceId": "1ho61yc",
+      "reason": "Crosspost duplicate of the same author's identical cafe story posted to another subreddit"
+    },
+    {
+      "sourceId": "1fm3rzc",
+      "reason": "Ghosted before meeting; no in-person date"
+    },
+    {
+      "sourceId": "1fkiack",
+      "reason": "No bad or awkward in-person experience described; only a one-word reply afterwards"
+    },
+    {
+      "sourceId": "12eltd2",
+      "reason": "Text is republished from another user's post, so not firsthand for this source"
+    },
+    {
+      "sourceId": "1u01sm7",
+      "reason": "Gift advice request, not a date experience"
+    },
+    {
+      "sourceId": "1jvxsau",
+      "reason": "Four-month relationship arc with positive dates; ends in breakup and threats"
+    },
+    {
+      "sourceId": "1vmdanu",
+      "reason": "Roommate's experience, hearsay"
+    },
+    {
+      "sourceId": "1iixejn",
+      "reason": "Not a date; dispute with apartment security guards"
+    },
+    {
+      "sourceId": "1gw7dsk",
+      "reason": "Arranged marriage advice and venting; no bad-date narrative"
+    },
+    {
+      "sourceId": "1uv5qk3",
+      "reason": "Pre-date suspicion about two matches; no meeting happened"
+    },
+    {
+      "sourceId": "1qzi2h5",
+      "reason": "Positive date ending in a consensual hookup"
+    },
+    {
+      "sourceId": "1p8oa0w",
+      "reason": "Advice-seeking about dating age and catfish matches; no specific date"
+    },
+    {
+      "sourceId": "1h9j0ik",
+      "reason": "Pre-date question about whether a cafe is safe"
+    },
+    {
+      "sourceId": "1dvylfw",
+      "reason": "Cancelled before meeting; no in-person date"
+    },
+    {
+      "sourceId": "1t5678b",
+      "reason": "Positive story that ends in marriage"
+    },
+    {
+      "sourceId": "1po5ubi",
+      "reason": "Request for cafe suggestions for an upcoming date"
+    },
+    {
+      "sourceId": "1udnm1e",
+      "reason": "Car insurance claim question, unrelated to dating"
+    },
+    {
+      "sourceId": "1t57qei",
+      "reason": "Duplicate of another in-range candidate and a positive story"
+    },
+    {
+      "sourceId": "1ho5qzd",
+      "reason": "Duplicate of another in-range candidate telling the same cafe story"
+    },
+    {
+      "sourceId": "1glla7a",
+      "reason": "Friend's experience, hearsay"
+    },
+    {
+      "sourceId": "1mtacxm",
+      "reason": "Crosspost duplicate of the same author's identical cafe hostage story"
+    },
+    {
+      "sourceId": "1md4mxa",
+      "reason": "Financial crime and relationship story, not a bad date experience"
+    },
+    {
+      "sourceId": "1uhovcr",
+      "reason": "College friendship story, not a date"
+    },
+    {
+      "sourceId": "1u01ao9",
+      "reason": "Duplicate of another in-range candidate; gift advice request"
+    },
+    {
+      "sourceId": "1qlg322",
+      "reason": "Long-distance emotional cheating story with no in-person meeting"
+    },
+    {
+      "sourceId": "18ro4fj",
+      "reason": "Date went fine and the bill was split; post is speculation about being ghosted"
+    },
+    {
+      "sourceId": "1vw7lbl",
+      "reason": "Flatmate bill dispute, unrelated to dating"
+    },
+    {
+      "sourceId": "1vo8vbe",
+      "reason": "Not a date experience; self-described red flags list and dating app rant"
+    },
+    {
+      "sourceId": "1uqsjz5",
+      "reason": "Pre-date advice request seeking budget first date spot"
+    },
+    {
+      "sourceId": "1l5i6fe",
+      "reason": "Generic scam PSA/warning, no firsthand date narrative"
+    },
+    {
+      "sourceId": "1hxf6f1",
+      "reason": "Hearsay about a friend's chats; no date took place"
+    },
+    {
+      "sourceId": "1vcw5hd",
+      "reason": "Positive/wholesome date anecdote, not a bad or awkward date"
+    },
+    {
+      "sourceId": "1vbpc9d",
+      "reason": "Workplace crush and rejection story; no date happened"
+    },
+    {
+      "sourceId": "1vaseyw",
+      "reason": "Positive first date narrative, largely pre-date build-up"
+    },
+    {
+      "sourceId": "1u8yoi2",
+      "reason": "Hearsay - friend's experience retold, not firsthand"
+    },
+    {
+      "sourceId": "1u03zn5",
+      "reason": "Anniversary gift advice request, not a date experience"
+    },
+    {
+      "sourceId": "1t5lbqg",
+      "reason": "Positive first date, self-promotional narrative"
+    },
+    {
+      "sourceId": "1t1j5s4",
+      "reason": "Unmatched before meeting; no in-person date"
+    },
+    {
+      "sourceId": "1s8erud",
+      "reason": "Seeking post asking for a dinner spot before a date"
+    },
+    {
+      "sourceId": "1s86007",
+      "reason": "Duplicate of the same seeking post within range"
+    },
+    {
+      "sourceId": "1qbr1pb",
+      "reason": "Generic discussion/product idea feedback request"
+    },
+    {
+      "sourceId": "1pykw6m",
+      "reason": "Positive date success story"
+    },
+    {
+      "sourceId": "1ofqgji",
+      "reason": "Pre-meet speculation and request for information; no date yet"
+    },
+    {
+      "sourceId": "1m3stn3",
+      "reason": "Seeking cafe suggestions for an upcoming date"
+    },
+    {
+      "sourceId": "1j2kpn5",
+      "reason": "Generic scam alert PSA without firsthand date narrative"
+    },
+    {
+      "sourceId": "1iuoq79",
+      "reason": "Hearsay about a friend plus a serious assault report, not a bad-date anecdote"
+    },
+    {
+      "sourceId": "1i3ed9g",
+      "reason": "Generic discussion about dating culture; no in-person date narrative"
+    },
+    {
+      "sourceId": "1vvlwvj",
+      "reason": "Third-party relationship/breakup story posted on a friend's behalf"
+    },
+    {
+      "sourceId": "1vmo7xs",
+      "reason": "Duplicate of the same Kolkata lounge scam story already selected within range"
+    },
+    {
+      "sourceId": "1uxml6r",
+      "reason": "Long friendship/relationship story; the in-person meet was positive"
+    },
+    {
+      "sourceId": "1ullnik",
+      "reason": "Friendship drama rant, not a date experience"
+    },
+    {
+      "sourceId": "1uf44o8",
+      "reason": "Serialised past relationship story, not a discrete bad date"
+    },
+    {
+      "sourceId": "1tti3ja",
+      "reason": "No in-person date occurred; author left without meeting him"
+    },
+    {
+      "sourceId": "1s2ab5a",
+      "reason": "Extended relationship story across multiple trips, not a bad date"
+    },
+    {
+      "sourceId": "1rsn4ba",
+      "reason": "Seeking post looking to date someone"
+    },
+    {
+      "sourceId": "1roqmeh",
+      "reason": "Generic opinion/discussion post, no firsthand date"
+    },
+    {
+      "sourceId": "1roq8vt",
+      "reason": "Crosspost duplicate of the same opinion post within range"
+    },
+    {
+      "sourceId": "1roq29j",
+      "reason": "Crosspost duplicate of the same opinion post within range"
+    },
+    {
+      "sourceId": "1munu8h",
+      "reason": "Promotional/spam solicitation, not a date experience"
+    },
+    {
+      "sourceId": "1l48jd3",
+      "reason": "Positive multi-date relationship story ending in a breakup"
+    },
+    {
+      "sourceId": "1ke6pfw",
+      "reason": "Narrative about attempting to get dates; no bad date experience"
+    },
+    {
+      "sourceId": "1irgd4g",
+      "reason": "Joke/screenshot post about bill repayment, no bad date narrative"
+    },
+    {
+      "sourceId": "1iqq9bb",
+      "reason": "Post-breakup relationship story"
+    },
+    {
+      "sourceId": "1ebkxh2",
+      "reason": "Positive hookup narrative, not a bad or awkward date"
+    },
+    {
+      "sourceId": "1e3mxdr",
+      "reason": "Seeking post about where to meet women"
+    },
+    {
+      "sourceId": "1dru49p",
+      "reason": "One-sided crush story; no date took place"
+    },
+    {
+      "sourceId": "1dmp9ef",
+      "reason": "Generic loneliness rant without a date narrative"
+    }
+  ]
+}
